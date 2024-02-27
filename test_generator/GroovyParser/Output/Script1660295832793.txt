@@ -1,0 +1,10 @@
+{"Receiver": "WebUI", "Action": "openBrowser", "Input": [{"type": "Constant", "value": "", "datatype": "java.lang.String"}], "Output": [], "Child": null}
+{"Receiver": "WebUI", "Action": "navigateToUrl", "Input": [{"type": "Constant", "value": "http://j2store.net/demo/", "datatype": "java.lang.String"}], "Output": [], "Child": null}
+{"Receiver": "WebUI", "Action": "click", "Input": [{"type": "Statement", "code": "this.findTestObject('Object Repository/Page_Home/img_Recent products_j2store-img-responsive _cded70')"}], "Output": [], "Child": null}
+{"Receiver": "WebUI", "Action": "click", "Input": [{"type": "Statement", "code": "this.findTestObject('Object Repository/Page_Bed2/a_Specifications')"}], "Output": [], "Child": null}
+{"Receiver": "WebUI", "Action": "verifyElementVisible", "Input": [{"type": "Statement", "code": "this.findTestObject('Object Repository/Page_Bed2/td_Dimension (L x W x H)')"}], "Output": [], "Child": null}
+{"Receiver": "WebUI", "Action": "verifyElementVisible", "Input": [{"type": "Statement", "code": "this.findTestObject('Object Repository/Page_Bed2/td_Weight')"}], "Output": [], "Child": null}
+{"Receiver": "WebUI", "Action": "click", "Input": [{"type": "Statement", "code": "this.findTestObject('Object Repository/Page_Bed2/a_Description')"}], "Output": [], "Child": null}
+{"Receiver": "WebUI", "Action": "verifyElementText", "Input": [{"type": "Statement", "code": "this.findTestObject('Object Repository/Page_Bed2/h2_Product Description')"}, {"type": "Constant", "value": "Product Description", "datatype": "java.lang.String"}], "Output": [], "Child": null}
+{"Receiver": "WebUI", "Action": "verifyElementVisible", "Input": [{"type": "Statement", "code": "this.findTestObject('Object Repository/Page_Bed2/p_Lorem Ipsum is simply dummy text of the p_695810')"}], "Output": [], "Child": null}
+{"Receiver": "WebUI", "Action": "closeBrowser", "Input": [], "Output": [], "Child": null}

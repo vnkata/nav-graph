@@ -1,0 +1,48 @@
+#graph-card {
+    height: 98%;
+    width: 100%;
+}
+
+#graph_petrinet {
+    height: 85% !important;
+    cursor: pointer;
+}
+
+#graph-card > .card-body {
+    padding: 0.5rem 0.5rem !important;
+}
+
+
+/* zoom control */
+#graph_petrinet div:nth-child(2) {
+    position: absolute;
+    left: -8px !important;
+    top: -24px !important;
+}
+
+#graph_petrinet div:nth-child(2):after {
+    /*content: '🔍';*/
+    /*visibility: visible;*/
+}
+
+#graph0 > polygon {
+
+}
+
+#ws-button-enable-socket > div > div {
+    flex-direction: row;
+}
+
+#ws-button-enable-socket > div > div > div {
+    margin-left: 4px;
+    flex-direction: row;
+}
+
+#ws-button-enable-socket > div {
+    flex-direction: row-reverse;
+}
+
+#ws-button-enable-socket > div > label {
+    margin-right: 6px;
+    margin-bottom: 0 !important;
+}

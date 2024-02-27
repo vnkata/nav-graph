@@ -1,0 +1,68 @@
+.assert-cell-header {
+    padding: 8px;
+    text-align: left;
+    font-family: Arial, serif;
+    color: black;
+    font-weight: bold;
+}
+
+.assert-cell {
+    padding: 8px;
+    text-align: left;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    font-family: Arial, serif;
+}
+
+.assert-row-header {
+    background-color: #d2d2d2;
+    margin-right: 2px;
+    margin-left: 2px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.assert-row-odd {
+    margin-right: 2px;
+    margin-left: 2px;
+}
+
+.assert-row-even {
+    margin-right: 2px;
+    margin-left: 2px;
+    background-color: rgba(0, 0, 0, 0.03)
+}
+
+#row-element-properties {
+    background-color: rgba(0, 0, 0, 0.03)
+}
+
+li:nth-child(odd) {
+
+}
+
+li:nth-child(even) {
+    background-color: rgba(0, 0, 0, 0.03)
+}
+
+li:nth-child(odd):hover {
+    background-color: #d2d2d2;
+}
+
+li:nth-child(even):hover {
+    background-color: #d2d2d2;
+}
+
+.modal-content {
+    width: 1024px;
+}
+
+#id-assertion-attribute .dropdown-menu.show {
+    width: 512px !important;
+    height: 512px !important;;
+    overflow-y: scroll !important;;
+}
+
+.toast-body {
+    padding: 0.5rem !important;
+}

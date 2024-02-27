@@ -1,0 +1,393 @@
+Optimize goal:  minimal
+Tune order [1, 2, 3, 4]
+Tuning starts at 2022-05-24 23:58:51.302759
+Drop rate tuning
+Results:  [[7, 0.0229], [11, 0.0229], [19, 0.0197], [5, 0.0176], [13, 0.0176], [17, 0.0176], [3, 0.0138], [23, 0.0085], [31, 0.0053], [29, 0.0027]]
+Search space tuning
+Results:  [[7, 0.0341], [11, 0.0341], [13, 0.0314], [5, 0.0288], [2, 0.0282], [3, 0.0256], [1, 0.0229]]
+Iteration tuning
+Results:  [[150, 0.0341], [200, 0.0341], [250, 0.0341], [300, 0.0341], [100, 0.0314], [50, 0.0282]]
+Retry tuning
+Results:  [[2, 0.0341], [3, 0.0341], [5, 0.0341], [7, 0.0333], [13, 0.0333], [11, 0.0331], [9, 0.0329]]
+Tuning ends at 2022-05-25 00:29:45.244980
+Tuning took 0:30:53.942221 to complete
+
+
+Running using best parameters starts at 2022-05-25 00:29:45.244980
+No. retry: 2
+No. iteration: 150
+Search space factor: 7
+Drop rate: 7
+Best 37 - Original 39 - Reduction rate: 0.051
+Best 32 - Original 32 - Reduction rate: 0
+Best 38 - Original 38 - Reduction rate: 0
+Best 43 - Original 47 - Reduction rate: 0.085
+Running using best parameters ends at 2022-05-25 00:30:32.933206
+Running using best parameters took 0:00:47.688226 to complete
+
+Tune order [3, 2, 4, 1]
+Tuning starts at 2022-05-25 00:30:32.933206
+Iteration tuning
+Results:  [[150, 0.0176], [200, 0.0176], [300, 0.017], [100, 0.0144], [250, 0.0144], [50, 0.0027]]
+Search space tuning
+Results:  [[11, 0.0314], [7, 0.0235], [13, 0.0235], [3, 0.0229], [5, 0.0229], [2, 0.0203], [1, 0.0165]]
+Retry tuning
+Results:  [[7, 0.0311], [3, 0.0306], [11, 0.0293], [2, 0.0288], [13, 0.0288], [5, 0.0277], [9, 0.0276]]
+Drop rate tuning
+Results:  [[7, 0.0341], [11, 0.0341], [13, 0.0341], [17, 0.0341], [5, 0.0333], [3, 0.0318], [19, 0.0318], [23, 0.0303], [29, 0.0254], [31, 0.0222]]
+Tuning ends at 2022-05-25 05:26:22.434875
+Tuning took 4:55:49.501669 to complete
+
+
+Running using best parameters starts at 2022-05-25 05:26:22.434875
+No. retry: 7
+No. iteration: 150
+Search space factor: 11
+Drop rate: 7
+Best 37 - Original 39 - Reduction rate: 0.051
+Best 32 - Original 32 - Reduction rate: 0
+Best 38 - Original 38 - Reduction rate: 0
+Best 43 - Original 47 - Reduction rate: 0.085
+Running using best parameters ends at 2022-05-25 05:30:43.402435
+Running using best parameters took 0:04:20.967560 to complete
+
+Tune order [4, 1, 3, 2]
+Tuning starts at 2022-05-25 05:30:43.402435
+Retry tuning
+Results:  [[13, 0.0125], [7, 0.0116], [9, 0.0115], [3, 0.0114], [2, 0.0112], [11, 0.0111], [5, 0.0102]]
+Drop rate tuning
+Results:  [[7, 0.0229], [13, 0.0224], [11, 0.0202], [5, 0.0198], [17, 0.019], [19, 0.0158], [23, 0.0134], [3, 0.0097], [29, 0.0074], [31, 0.0052]]
+Iteration tuning
+Results:  [[300, 0.0296], [250, 0.0276], [200, 0.0261], [150, 0.0239], [100, 0.0215], [50, 0.0189]]
+Search space tuning
+Results:  [[5, 0.0341], [7, 0.0341], [11, 0.0341], [13, 0.0341], [2, 0.0333], [3, 0.0333], [1, 0.0291]]
+Tuning ends at 2022-05-25 07:01:05.127010
+Tuning took 1:30:21.724575 to complete
+
+
+Running using best parameters starts at 2022-05-25 07:01:05.127010
+No. retry: 13
+No. iteration: 300
+Search space factor: 5
+Drop rate: 7
+Best 37 - Original 39 - Reduction rate: 0.051
+Best 32 - Original 32 - Reduction rate: 0
+Best 38 - Original 38 - Reduction rate: 0
+Best 43 - Original 47 - Reduction rate: 0.085
+Running using best parameters ends at 2022-05-25 07:08:31.754853
+Running using best parameters took 0:07:26.627843 to complete
+
+Tune order [2, 1, 3, 4]
+Tuning starts at 2022-05-25 07:08:31.754853
+Search space tuning
+Results:  [[13, 0.0288], [7, 0.0261], [11, 0.0261], [5, 0.0256], [2, 0.0203], [3, 0.0176], [1, 0.0053]]
+Drop rate tuning
+Results:  [[5, 0.0341], [7, 0.0341], [11, 0.0341], [13, 0.0341], [17, 0.0341], [3, 0.0314], [23, 0.0314], [19, 0.0288], [29, 0.0235], [31, 0.0229]]
+Iteration tuning
+Results:  [[100, 0.0341], [200, 0.0341], [250, 0.0341], [300, 0.0341], [50, 0.0314], [150, 0.0314]]
+Retry tuning
+Results:  [[7, 0.0333], [13, 0.0333], [11, 0.0331], [5, 0.032], [9, 0.0317], [2, 0.0314], [3, 0.0284]]
+Tuning ends at 2022-05-25 08:14:36.962449
+Tuning took 1:06:05.207596 to complete
+
+
+Running using best parameters starts at 2022-05-25 08:14:36.962449
+No. retry: 7
+No. iteration: 100
+Search space factor: 13
+Drop rate: 5
+Best 37 - Original 39 - Reduction rate: 0.051
+Best 32 - Original 32 - Reduction rate: 0
+Best 38 - Original 38 - Reduction rate: 0
+Best 43 - Original 47 - Reduction rate: 0.085
+Running using best parameters ends at 2022-05-25 08:16:52.994808
+Running using best parameters took 0:02:16.032359 to complete
+
+Tune order [4, 1, 2, 3]
+Tuning starts at 2022-05-25 08:16:52.994808
+Retry tuning
+Results:  [[7, 0.0148], [9, 0.0128], [13, 0.0118], [5, 0.0115], [3, 0.0114], [11, 0.0108], [2, 0.0085]]
+Drop rate tuning
+Results:  [[13, 0.0254], [11, 0.0231], [7, 0.021], [17, 0.0195], [5, 0.0183], [19, 0.0174], [3, 0.0117], [23, 0.0114], [29, 0.0064], [31, 0.005]]
+Search space tuning
+Results:  [[11, 0.0341], [13, 0.0341], [3, 0.0326], [5, 0.0326], [7, 0.0326], [2, 0.0279], [1, 0.0196]]
+Iteration tuning
+Results:  [[100, 0.0341], [150, 0.0341], [200, 0.0341], [250, 0.0341], [300, 0.0341], [50, 0.0333]]
+Tuning ends at 2022-05-25 12:41:48.718896
+Tuning took 4:24:55.726088 to complete
+
+
+Running using best parameters starts at 2022-05-25 12:41:48.721896
+No. retry: 7
+No. iteration: 100
+Search space factor: 11
+Drop rate: 13
+Best 37 - Original 39 - Reduction rate: 0.051
+Best 32 - Original 32 - Reduction rate: 0
+Best 38 - Original 38 - Reduction rate: 0
+Best 43 - Original 47 - Reduction rate: 0.085
+Running using best parameters ends at 2022-05-25 12:59:23.184354
+Running using best parameters took 0:17:34.462458 to complete
+
+Optimize goal:  balance
+Tune order [1, 2, 3, 4]
+Tuning starts at 2022-05-25 12:59:23.189359
+Drop rate tuning
+Results:  [[7, 0.1609], [11, 0.159], [5, 0.1585], [13, 0.1556], [17, 0.1521], [19, 0.1514], [23, 0.1467], [31, 0.137], [29, 0.1368], [3, 0.1322]]
+Search space tuning
+Results:  [[11, 0.2024], [13, 0.1997], [7, 0.1886], [5, 0.184], [3, 0.1761], [2, 0.1756], [1, 0.1527]]
+Iteration tuning
+Results:  [[300, 0.2112], [250, 0.208], [150, 0.2068], [200, 0.2046], [100, 0.1934], [50, 0.1884]]
+Retry tuning
+Results:  [[11, 0.2105], [13, 0.2096], [2, 0.2095], [5, 0.2087], [3, 0.2081], [7, 0.2076], [9, 0.2076]]
+Tuning ends at 2022-05-25 16:38:59.905456
+Tuning took 3:39:36.716097 to complete
+
+
+Running using best parameters starts at 2022-05-25 16:38:59.905456
+No. retry: 11
+No. iteration: 300
+Search space factor: 11
+Drop rate: 7
+Best 5.043 - Original 6.146 - Reduction rate: 0.179
+Best 9.064 - Original 12.009 - Reduction rate: 0.245
+Best 4.017 - Original 4.377 - Reduction rate: 0.082
+Best 2.395 - Original 3.929 - Reduction rate: 0.39
+Running using best parameters ends at 2022-05-25 17:16:14.504549
+Running using best parameters took 0:37:14.599093 to complete
+
+Tune order [2, 1, 3, 4]
+Tuning starts at 2022-05-25 17:16:14.504549
+Search space tuning
+Results:  [[7, 0.1654], [13, 0.1648], [11, 0.1647], [5, 0.1635], [2, 0.1545], [3, 0.154], [1, 0.1479]]
+Drop rate tuning
+Results:  [[5, 0.1958], [7, 0.1917], [3, 0.1831], [11, 0.1814], [13, 0.1766], [19, 0.1697], [17, 0.1669], [23, 0.1594], [29, 0.1589], [31, 0.1553]]
+Iteration tuning
+Results:  [[300, 0.2066], [150, 0.2044], [200, 0.2037], [250, 0.2014], [100, 0.1892], [50, 0.1793]]
+Retry tuning
+Results:  [[7, 0.2086], [11, 0.2084], [13, 0.2083], [9, 0.2073], [5, 0.2048], [3, 0.2034], [2, 0.202]]
+Tuning ends at 2022-05-25 20:00:10.573578
+Tuning took 2:43:56.070028 to complete
+
+
+Running using best parameters starts at 2022-05-25 20:00:10.574577
+No. retry: 7
+No. iteration: 300
+Search space factor: 7
+Drop rate: 5
+Best 5.099 - Original 6.146 - Reduction rate: 0.17
+Best 9.084 - Original 12.009 - Reduction rate: 0.244
+Best 4.072 - Original 4.377 - Reduction rate: 0.07
+Best 2.383 - Original 3.929 - Reduction rate: 0.393
+Running using best parameters ends at 2022-05-25 20:11:20.115473
+Running using best parameters took 0:11:09.540896 to complete
+
+Tune order [3, 1, 4, 2]
+Tuning starts at 2022-05-25 20:11:20.115473
+Iteration tuning
+Results:  [[250, 0.1523], [200, 0.15], [300, 0.1499], [150, 0.1466], [100, 0.1413], [50, 0.1396]]
+Drop rate tuning
+Results:  [[13, 0.1686], [5, 0.1661], [7, 0.1653], [11, 0.1629], [3, 0.1586], [19, 0.1544], [17, 0.1524], [23, 0.1515], [29, 0.1442], [31, 0.1432]]
+Retry tuning
+Results:  [[7, 0.1625], [11, 0.1625], [9, 0.1623], [5, 0.1619], [2, 0.1618], [3, 0.1618], [13, 0.1617]]
+Search space tuning
+Results:  [[13, 0.1881], [11, 0.1862], [7, 0.1834], [5, 0.1782], [3, 0.1739], [2, 0.1708], [1, 0.1634]]
+Tuning ends at 2022-05-25 21:38:46.636955
+Tuning took 1:27:26.521482 to complete
+
+
+Running using best parameters starts at 2022-05-25 21:38:46.636955
+No. retry: 7
+No. iteration: 250
+Search space factor: 13
+Drop rate: 13
+Best 5.146 - Original 6.146 - Reduction rate: 0.163
+Best 9.209 - Original 12.009 - Reduction rate: 0.233
+Best 4.14 - Original 4.377 - Reduction rate: 0.054
+Best 2.504 - Original 3.929 - Reduction rate: 0.363
+Running using best parameters ends at 2022-05-25 21:58:21.310317
+Running using best parameters took 0:19:34.673362 to complete
+
+Tune order [4, 2, 1, 3]
+Tuning starts at 2022-05-25 21:58:21.325946
+Retry tuning
+Results:  [[11, 0.1479], [5, 0.1466], [9, 0.1444], [7, 0.1442], [3, 0.1437], [13, 0.1437], [2, 0.1407]]
+Search space tuning
+Results:  [[13, 0.166], [11, 0.1638], [7, 0.161], [5, 0.1567], [3, 0.1556], [2, 0.1507], [1, 0.1441]]
+Drop rate tuning
+Results:  [[5, 0.1999], [7, 0.199], [3, 0.1935], [11, 0.1881], [13, 0.1807], [17, 0.1748], [19, 0.1724], [23, 0.1672], [29, 0.1594], [31, 0.1579]]
+Iteration tuning
+Results:  [[250, 0.2139], [300, 0.2129], [200, 0.2099], [150, 0.2094], [100, 0.2003], [50, 0.1835]]
+Tuning ends at 2022-05-26 03:01:44.125524
+Tuning took 5:03:22.799578 to complete
+
+
+Running using best parameters starts at 2022-05-26 03:01:44.125524
+No. retry: 11
+No. iteration: 250
+Search space factor: 13
+Drop rate: 5
+Best 5.045 - Original 6.146 - Reduction rate: 0.179
+Best 8.995 - Original 12.009 - Reduction rate: 0.251
+Best 4.069 - Original 4.377 - Reduction rate: 0.07
+Best 2.335 - Original 3.929 - Reduction rate: 0.406
+Running using best parameters ends at 2022-05-26 03:11:11.623924
+Running using best parameters took 0:09:27.498400 to complete
+
+Tune order [3, 1, 2, 4]
+Tuning starts at 2022-05-26 03:11:11.623924
+Iteration tuning
+Results:  [[250, 0.1537], [300, 0.1529], [200, 0.1511], [150, 0.1475], [100, 0.1453], [50, 0.1384]]
+Drop rate tuning
+Results:  [[7, 0.1682], [5, 0.1675], [11, 0.1663], [13, 0.1627], [3, 0.1596], [19, 0.1574], [17, 0.1552], [23, 0.1521], [29, 0.1479], [31, 0.1426]]
+Search space tuning
+Results:  [[13, 0.2118], [11, 0.203], [7, 0.202], [5, 0.1982], [3, 0.1844], [2, 0.1826], [1, 0.1684]]
+Retry tuning
+Results:  [[3, 0.2111], [9, 0.2107], [5, 0.2103], [2, 0.2102], [11, 0.2099], [13, 0.2092], [7, 0.2091]]
+Tuning ends at 2022-05-26 04:33:02.456791
+Tuning took 1:21:50.832867 to complete
+
+
+Running using best parameters starts at 2022-05-26 04:33:02.456791
+No. retry: 3
+No. iteration: 250
+Search space factor: 13
+Drop rate: 7
+Best 5.06 - Original 6.146 - Reduction rate: 0.177
+Best 9.09 - Original 12.009 - Reduction rate: 0.243
+Best 4.186 - Original 4.377 - Reduction rate: 0.044
+Best 2.389 - Original 3.929 - Reduction rate: 0.392
+Running using best parameters ends at 2022-05-26 04:36:49.697667
+Running using best parameters took 0:03:47.240876 to complete
+
+Optimize goal:  duplicate
+Tune order [1, 2, 3, 4]
+Tuning starts at 2022-05-26 04:36:49.697667
+Drop rate tuning
+Results:  [[5, 0.0121], [13, 0.0108], [7, 0.0072], [17, 0.0068], [19, 0.0057], [11, 0.0042], [23, 0.002], [3, 0.0018], [29, 0.0007], [31, 0.0007]]
+Search space tuning
+Results:  [[13, 0.0237], [11, 0.0203], [7, 0.0199], [5, 0.0198], [3, 0.0149], [1, 0.0136], [2, 0.0077]]
+Iteration tuning
+Results:  [[250, 0.0261], [300, 0.0252], [200, 0.0242], [150, 0.0225], [100, 0.0209], [50, 0.0208]]
+Retry tuning
+Results:  [[3, 0.0272], [5, 0.0271], [13, 0.0265], [11, 0.0262], [7, 0.026], [9, 0.0257], [2, 0.0255]]
+Tuning ends at 2022-05-26 05:27:45.751358
+Tuning took 0:50:56.053691 to complete
+
+
+Running using best parameters starts at 2022-05-26 05:27:45.751358
+No. retry: 3
+No. iteration: 250
+Search space factor: 13
+Drop rate: 5
+Best 545 - Original 570 - Reduction rate: 0.044
+Best 766 - Original 757 - Reduction rate: 0
+Best 624 - Original 608 - Reduction rate: 0
+Best 793 - Original 842 - Reduction rate: 0.058
+Running using best parameters ends at 2022-05-26 05:30:08.844083
+Running using best parameters took 0:02:23.092725 to complete
+
+Tune order [4, 3, 1, 2]
+Tuning starts at 2022-05-26 05:30:08.844083
+Retry tuning
+Results:  [[3, 0.0034], [7, 0.0029], [13, 0.0027], [2, 0.0024], [11, 0.0023], [5, 0.0022], [9, 0.0012]]
+Iteration tuning
+Results:  [[200, 0.006], [250, 0.0056], [300, 0.0047], [150, 0.0032], [100, 0.0031], [50, 0.0029]]
+Drop rate tuning
+Results:  [[7, 0.0132], [5, 0.0128], [11, 0.0118], [13, 0.0112], [17, 0.0104], [3, 0.0048], [19, 0.0044], [29, 0.0032], [23, 0.0029], [31, 0.0]]
+Search space tuning
+Results:  [[7, 0.0269], [11, 0.0262], [13, 0.0245], [5, 0.0241], [3, 0.0199], [2, 0.0176], [1, 0.0143]]
+Tuning ends at 2022-05-26 06:00:35.471022
+Tuning took 0:30:26.626939 to complete
+
+
+Running using best parameters starts at 2022-05-26 06:00:35.471022
+No. retry: 3
+No. iteration: 200
+Search space factor: 7
+Drop rate: 7
+Best 545 - Original 570 - Reduction rate: 0.044
+Best 757 - Original 757 - Reduction rate: 0
+Best 640 - Original 608 - Reduction rate: 0
+Best 797 - Original 842 - Reduction rate: 0.053
+Running using best parameters ends at 2022-05-26 06:02:09.651739
+Running using best parameters took 0:01:34.180717 to complete
+
+Tune order [4, 3, 2, 1]
+Tuning starts at 2022-05-26 06:02:09.651739
+Retry tuning
+Results:  [[5, 0.0065], [9, 0.0026], [11, 0.0023], [2, 0.002], [7, 0.0019], [13, 0.0019], [3, 0.0006]]
+Iteration tuning
+Results:  [[150, 0.0052], [300, 0.0051], [250, 0.0043], [100, 0.0032], [200, 0.0032], [50, 0.0009]]
+Search space tuning
+Results:  [[11, 0.0128], [7, 0.0118], [5, 0.0117], [13, 0.0111], [3, 0.0059], [2, 0.0047], [1, 0.0036]]
+Drop rate tuning
+Results:  [[5, 0.0251], [11, 0.0248], [13, 0.0223], [7, 0.0222], [3, 0.0221], [17, 0.0197], [19, 0.0179], [23, 0.0161], [29, 0.0092], [31, 0.0077]]
+Tuning ends at 2022-05-26 08:43:24.132227
+Tuning took 2:41:14.480488 to complete
+
+
+Running using best parameters starts at 2022-05-26 08:43:24.132227
+No. retry: 5
+No. iteration: 150
+Search space factor: 11
+Drop rate: 5
+Best 545 - Original 570 - Reduction rate: 0.044
+Best 757 - Original 757 - Reduction rate: 0
+Best 619 - Original 608 - Reduction rate: 0
+Best 791 - Original 842 - Reduction rate: 0.061
+Running using best parameters ends at 2022-05-26 08:45:36.582979
+Running using best parameters took 0:02:12.450752 to complete
+
+Tune order [1, 4, 2, 3]
+Tuning starts at 2022-05-26 08:45:36.582979
+Drop rate tuning
+Results:  [[7, 0.0103], [13, 0.0087], [11, 0.0074], [3, 0.0068], [17, 0.0066], [23, 0.0061], [5, 0.0039], [19, 0.0024], [29, 0.0], [31, 0.0]]
+Retry tuning
+Results:  [[3, 0.0127], [2, 0.0116], [13, 0.0088], [5, 0.0085], [9, 0.0078], [7, 0.0075], [11, 0.0064]]
+Search space tuning
+Results:  [[7, 0.0236], [13, 0.0228], [11, 0.0223], [5, 0.0207], [3, 0.0186], [2, 0.0151], [1, 0.0111]]
+Iteration tuning
+Results:  [[250, 0.0252], [200, 0.0237], [300, 0.0217], [150, 0.0214], [100, 0.0205], [50, 0.0172]]
+Tuning ends at 2022-05-26 09:04:04.653882
+Tuning took 0:18:28.070903 to complete
+
+
+Running using best parameters starts at 2022-05-26 09:04:04.653882
+No. retry: 3
+No. iteration: 250
+Search space factor: 7
+Drop rate: 7
+Best 545 - Original 570 - Reduction rate: 0.044
+Best 757 - Original 757 - Reduction rate: 0
+Best 642 - Original 608 - Reduction rate: 0
+Best 799 - Original 842 - Reduction rate: 0.051
+Running using best parameters ends at 2022-05-26 09:06:03.711852
+Running using best parameters took 0:01:59.057970 to complete
+
+Tune order [2, 3, 4, 1]
+Tuning starts at 2022-05-26 09:06:03.711852
+Search space tuning
+Results:  [[13, 0.0137], [11, 0.0122], [7, 0.0105], [5, 0.0103], [3, 0.0071], [2, 0.0045], [1, 0.0013]]
+Iteration tuning
+Results:  [[150, 0.0177], [300, 0.0156], [250, 0.0144], [200, 0.0142], [100, 0.0132], [50, 0.0105]]
+Retry tuning
+Results:  [[9, 0.0144], [13, 0.0141], [11, 0.0139], [7, 0.0138], [3, 0.0131], [5, 0.0126], [2, 0.0123]]
+Drop rate tuning
+Results:  [[11, 0.0249], [7, 0.0245], [5, 0.0241], [13, 0.0229], [3, 0.0221], [17, 0.019], [19, 0.0182], [23, 0.0165], [29, 0.0095], [31, 0.0086]]
+Tuning ends at 2022-05-26 17:03:21.117247
+Tuning took 7:57:17.405395 to complete
+
+
+Running using best parameters starts at 2022-05-26 17:03:21.117247
+No. retry: 9
+No. iteration: 150
+Search space factor: 13
+Drop rate: 11
+Best 545 - Original 570 - Reduction rate: 0.044
+Best 757 - Original 757 - Reduction rate: 0
+Best 653 - Original 608 - Reduction rate: 0
+Best 787 - Original 842 - Reduction rate: 0.065
+Running using best parameters ends at 2022-05-26 17:14:53.736054
+Running using best parameters took 0:11:32.618807 to complete
+

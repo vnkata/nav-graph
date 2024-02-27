@@ -1,0 +1,38 @@
+{"Receiver": "", "Action": "While", "Input": [{"type": "Statement", "code": "((1 <= 2) && (t == asd))"}], "Output": null, "cmdtype": "other"}
+	{"Receiver": "webUI", "Action": "doSomething", "Input": [{"type": "Statement", "code": "this.findId(asdfa)"}, {"type": "Constant", "value": "null", "datatype": ""}], "Output": null, "cmdtype": "other"}
+	{"Receiver": "", "Action": "If", "Input": [{"type": "Statement", "code": "some_cond"}], "Output": null, "cmdtype": "other"}
+		{"Receiver": "this", "Action": "doSomething", "Input": [], "Output": null, "cmdtype": "other"}
+	{"Receiver": "", "Action": "Else", "Input": null, "Output": null, "cmdtype": "other"}
+		{"Receiver": "", "Action": "If", "Input": [{"type": "Statement", "code": "another_cond"}], "Output": null, "cmdtype": "other"}
+			{"Receiver": "this", "Action": "doSomethingElse", "Input": [{"type": "Variable", "name": "sdfa", "datatype": "java.lang.Object"}, {"type": "Variable", "name": "ads", "datatype": "java.lang.Object"}], "Output": null, "cmdtype": "other"}
+		{"Receiver": "", "Action": "Else", "Input": null, "Output": null, "cmdtype": "other"}
+			{"Receiver": "this", "Action": "haha", "Input": [{"type": "Constant", "value": "sdfasdf", "datatype": "java.lang.String"}, {"type": "Variable", "name": "a", "datatype": "java.lang.Object"}, {"type": "Variable", "name": "d", "datatype": "java.lang.Object"}], "Output": null, "cmdtype": "other"}
+{"Receiver": "", "Action": "Switch", "Input": [{"type": "Statement", "code": "this.doSomething()"}], "Output": null, "cmdtype": "other"}
+	{"Receiver": "", "Action": "Case", "Input": [{"type": "Variable", "name": "a", "datatype": "java.lang.Object"}], "Output": null, "cmdtype": "other"}
+		{"Receiver": "this", "Action": "doAnotherThing", "Input": [], "Output": null, "cmdtype": "other"}
+		{"Receiver": "", "Action": "Break", "Input": null, "Output": null, "cmdtype": "other"}
+	{"Receiver": "", "Action": "Case", "Input": [{"type": "Variable", "name": "b", "datatype": "java.lang.Object"}], "Output": null, "cmdtype": "other"}
+		{"Receiver": "this", "Action": "doSomethingElse", "Input": [], "Output": null, "cmdtype": "other"}
+		{"Receiver": "", "Action": "Break", "Input": null, "Output": null, "cmdtype": "other"}
+	{"Receiver": "", "Action": "Default", "Input": null, "Output": null, "cmdtype": "other"}
+		{"Receiver": "this", "Action": "hello", "Input": [], "Output": null, "cmdtype": "other"}
+		{"Receiver": "", "Action": "Break", "Input": null, "Output": null, "cmdtype": "other"}
+{"Receiver": "", "Action": "Switch", "Input": [{"type": "Variable", "name": "astring", "datatype": "java.lang.Object"}], "Output": null, "cmdtype": "other"}
+	{"Receiver": "", "Action": "Case", "Input": [{"type": "Constant", "value": "asda", "datatype": "java.lang.String"}], "Output": null, "cmdtype": "other"}
+		{"Receiver": "this", "Action": "doSomething", "Input": [], "Output": null, "cmdtype": "other"}
+		{"Receiver": "", "Action": "Break", "Input": null, "Output": null, "cmdtype": "other"}
+	{"Receiver": "", "Action": "Default", "Input": null, "Output": null, "cmdtype": "other"}
+		{"Receiver": "this", "Action": "doNothing", "Input": [], "Output": null, "cmdtype": "other"}
+		{"Receiver": "", "Action": "Break", "Input": null, "Output": null, "cmdtype": "other"}
+{"Receiver": "", "Action": "Try", "Input": null, "Output": null, "cmdtype": "other"}
+	{"Receiver": "", "Action": "Assignment", "Input": [{"type": "Statement", "code": "new int[3]"}], "Output": [{"type": "Variable", "name": "arr", "datatype": "java.lang.Object"}], "cmdtype": "other"}
+	{"Receiver": "", "Action": "Assignment", "Input": [{"type": "Constant", "value": "abcd", "datatype": "class java.lang.String"}], "Output": [{"type": "Statement", "code": "arr[3]"}], "cmdtype": "other"}
+	{"Receiver": "", "Action": "Assignment", "Input": [{"type": "Constant", "value": "5", "datatype": "class java.lang.Integer"}], "Output": [{"type": "Statement", "code": "arr[5]"}], "cmdtype": "other"}
+	{"Receiver": "webUI", "Action": "doSomething", "Input": [{"type": "Constant", "value": "has string", "datatype": "java.lang.String"}, {"type": "Constant", "value": "10", "datatype": "int"}], "Output": [{"type": "Statement", "code": "arr[10]"}], "cmdtype": "other"}
+{"Receiver": "", "Action": "Catch", "Input": [{"type": "Variable", "name": "ex", "datatype": "java.lang.Exception -> java.lang.Exception"}], "Output": null, "cmdtype": "other"}
+	{"Receiver": "this", "Action": "println", "Input": [{"type": "Constant", "value": "Catching the exception", "datatype": "java.lang.String"}], "Output": null, "cmdtype": "other"}
+{"Receiver": "", "Action": "Finally", "Input": null, "Output": null, "cmdtype": "other"}
+	{"Receiver": "this", "Action": "sleep", "Input": [], "Output": null, "cmdtype": "other"}
+{"Receiver": "", "Action": "For loop", "Input": [{"type": "Statement", "code": "(java.lang.Integer i = 0; (i < a.length); (++i))"}], "Output": null, "cmdtype": "other"}
+	{"Receiver": "", "Action": "Assignment", "Input": [{"type": "Statement", "code": "(i + 1)"}], "Output": [{"type": "Statement", "code": "a[i]"}], "cmdtype": "other"}
+{"Receiver": "", "Action": "Assignment", "Input": [{"type": "Constant", "value": "10", "datatype": "class java.lang.Integer"}], "Output": [{"type": "Statement", "code": "a[5]"}], "cmdtype": "other"}

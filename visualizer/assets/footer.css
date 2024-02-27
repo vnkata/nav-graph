@@ -1,0 +1,16 @@
+.none {
+    background-color: unset !important;
+    border: unset !important;
+    cursor: pointer;
+    padding: 8px;
+    color: grey;
+}
+
+.footer {
+    position: fixed;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.05);
+    padding: 0 16px;
+}

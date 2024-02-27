@@ -1,0 +1,71 @@
+{"Receiver": "WebUI", "Action": "callTestCase", "Input": [{"type": "Statement", "code": "this.findTestCase(tCC Components/tCC tsv Open For Edit)"}, {"type": "Constant", "value": "[:]", "datatype": "map"}, {"type": "Variable", "name": "FailureHandling.STOP_ON_FAILURE", "datatype": ""}], "Output": null, "cmdtype": "other"}
+{"Receiver": "WebUI", "Action": "delay", "Input": [{"type": "Constant", "value": "1", "datatype": "int"}], "Output": null, "cmdtype": "other"}
+{"Receiver": "", "Action": "If", "Input": [{"type": "Statement", "code": "(WebUI.getElementHeight(this.findTestObject(Page_tCC translationNotes/div_Icon_Toolbar)) != 48)"}], "Output": null, "cmdtype": "other"}
+	{"Receiver": "this", "Action": "println", "Input": [{"type": "Statement", "code": "((((ERROR: The icon bar height is  + WebUI.getElementHeight(this.findTestObject(Page_tCC translationNotes/div_Icon_Toolbar))) +  pixels and ) + 48) +  was expected.)"}], "Output": null, "cmdtype": "other"}
+	{"Receiver": "CustomKeywords", "Action": "unfoldingWord_Keywords.SendMessage.SendFailMessage", "Input": [{"type": "Statement", "code": "((((Test failed because the icon bar height is  + WebUI.getElementHeight(this.findTestObject(Page_tCC translationNotes/div_Icon_Toolbar))) +  pixels and ) + 48) +  was expected.)"}], "Output": null, "cmdtype": "other"}
+{"Receiver": "", "Action": "Else", "Input": null, "Output": null, "cmdtype": "other"}
+{"Receiver": "WebUI", "Action": "click", "Input": [{"type": "Statement", "code": "this.findTestObject(Page_tCC translationNotes/button_ViewColumns)"}], "Output": null, "cmdtype": "action"}
+{"Receiver": "WebUI", "Action": "click", "Input": [{"type": "Statement", "code": "this.findTestObject(Page_tCC translationNotes/columns_Parmed, [column:ID])"}], "Output": null, "cmdtype": "action"}
+{"Receiver": "WebUI", "Action": "click", "Input": [{"type": "Statement", "code": "this.findTestObject(Page_tCC translationNotes/btnX_CloseColumns)"}], "Output": null, "cmdtype": "action"}
+{"Receiver": "", "Action": "If", "Input": [{"type": "Statement", "code": "((WebUI.getText(this.findTestObject(Page_tCC translationNotes/p_IdRow2)) != rtc9) || (WebUI.getText(this.findTestObject(Page_tCC translationNotes/p_IdRow3)) != xyz8))"}], "Output": null, "cmdtype": "other"}
+	{"Receiver": "this", "Action": "println", "Input": [{"type": "Constant", "value": "ERROR: Rows are not in the expected order", "datatype": "java.lang.String"}], "Output": null, "cmdtype": "other"}
+	{"Receiver": "this", "Action": "println", "Input": [{"type": "Statement", "code": "(rtc9: + WebUI.getText(this.findTestObject(Page_tCC translationNotes/p_IdRow2)))"}], "Output": null, "cmdtype": "other"}
+	{"Receiver": "this", "Action": "println", "Input": [{"type": "Statement", "code": "(xyz8: + WebUI.getText(this.findTestObject(Page_tCC translationNotes/p_IdRow3)))"}], "Output": null, "cmdtype": "other"}
+	{"Receiver": "CustomKeywords", "Action": "unfoldingWord_Keywords.SendMessage.SendFailMessage", "Input": [{"type": "Constant", "value": "Test failed because the rows are not in the expected order.", "datatype": "java.lang.String"}], "Output": null, "cmdtype": "other"}
+	{"Receiver": "WebUI", "Action": "delay", "Input": [{"type": "Constant", "value": "10", "datatype": "int"}], "Output": null, "cmdtype": "other"}
+{"Receiver": "", "Action": "Else", "Input": null, "Output": null, "cmdtype": "other"}
+	{"Receiver": "this", "Action": "println", "Input": [{"type": "Constant", "value": "Rows are in expected order when project is opened", "datatype": "java.lang.String"}], "Output": null, "cmdtype": "other"}
+{"Receiver": "WebUI", "Action": "scrollToElement", "Input": [{"type": "Statement", "code": "this.findTestObject(Page_tCC translationNotes/button_MoveRow_xyz8Up)"}, {"type": "Constant", "value": "1", "datatype": "int"}], "Output": null, "cmdtype": "action"}
+{"Receiver": "WebUI", "Action": "click", "Input": [{"type": "Statement", "code": "this.findTestObject(Page_tCC translationNotes/button_MoveRow_xyz8Up)"}], "Output": null, "cmdtype": "action"}
+{"Receiver": "", "Action": "If", "Input": [{"type": "Statement", "code": "((WebUI.getText(this.findTestObject(Page_tCC translationNotes/p_IdRow2)) != xyz8) || (WebUI.getText(this.findTestObject(Page_tCC translationNotes/p_IdRow3)) != rtc9))"}], "Output": null, "cmdtype": "other"}
+	{"Receiver": "this", "Action": "println", "Input": [{"type": "Constant", "value": "ERROR: Rows do not appear to have been moved", "datatype": "java.lang.String"}], "Output": null, "cmdtype": "other"}
+	{"Receiver": "this", "Action": "println", "Input": [{"type": "Statement", "code": "(rtc9: + WebUI.getText(this.findTestObject(Page_tCC translationNotes/p_IdRow2)))"}], "Output": null, "cmdtype": "other"}
+	{"Receiver": "this", "Action": "println", "Input": [{"type": "Statement", "code": "(xyz8: + WebUI.getText(this.findTestObject(Page_tCC translationNotes/p_IdRow3)))"}], "Output": null, "cmdtype": "other"}
+	{"Receiver": "CustomKeywords", "Action": "unfoldingWord_Keywords.SendMessage.SendFailMessage", "Input": [{"type": "Constant", "value": "Test failed because the rows do not appear to have been moved.", "datatype": "java.lang.String"}], "Output": null, "cmdtype": "other"}
+	{"Receiver": "WebUI", "Action": "delay", "Input": [{"type": "Constant", "value": "10", "datatype": "int"}], "Output": null, "cmdtype": "other"}
+{"Receiver": "", "Action": "Else", "Input": null, "Output": null, "cmdtype": "other"}
+	{"Receiver": "this", "Action": "println", "Input": [{"type": "Constant", "value": "Rows appear to have been moved as expected", "datatype": "java.lang.String"}], "Output": null, "cmdtype": "other"}
+{"Receiver": "WebUI", "Action": "delay", "Input": [{"type": "Constant", "value": "1", "datatype": "int"}], "Output": null, "cmdtype": "other"}
+{"Receiver": "WebUI", "Action": "scrollToPosition", "Input": [{"type": "Constant", "value": "0", "datatype": "int"}, {"type": "Constant", "value": "2800", "datatype": "int"}], "Output": null, "cmdtype": "action"}
+{"Receiver": "WebUI", "Action": "delay", "Input": [{"type": "Constant", "value": "1", "datatype": "int"}], "Output": null, "cmdtype": "other"}
+{"Receiver": "WebUI", "Action": "click", "Input": [{"type": "Statement", "code": "this.findTestObject(Page_tCC translationNotes/button_MoveRow_xyz8Down)"}], "Output": null, "cmdtype": "action"}
+{"Receiver": "", "Action": "If", "Input": [{"type": "Statement", "code": "((WebUI.getText(this.findTestObject(Page_tCC translationNotes/p_IdRow2)) != rtc9) || (WebUI.getText(this.findTestObject(Page_tCC translationNotes/p_IdRow3)) != xyz8))"}], "Output": null, "cmdtype": "other"}
+	{"Receiver": "this", "Action": "println", "Input": [{"type": "Constant", "value": "ERROR: Rows were not returned to the original order", "datatype": "java.lang.String"}], "Output": null, "cmdtype": "other"}
+	{"Receiver": "this", "Action": "println", "Input": [{"type": "Statement", "code": "(rtc9: + WebUI.getText(this.findTestObject(Page_tCC translationNotes/p_IdRow2)))"}], "Output": null, "cmdtype": "other"}
+	{"Receiver": "this", "Action": "println", "Input": [{"type": "Statement", "code": "(xyz8: + WebUI.getText(this.findTestObject(Page_tCC translationNotes/p_IdRow3)))"}], "Output": null, "cmdtype": "other"}
+	{"Receiver": "CustomKeywords", "Action": "unfoldingWord_Keywords.SendMessage.SendFailMessage", "Input": [{"type": "Constant", "value": "Test failed because the rows were not returned to the original order.", "datatype": "java.lang.String"}], "Output": null, "cmdtype": "other"}
+	{"Receiver": "WebUI", "Action": "delay", "Input": [{"type": "Constant", "value": "10", "datatype": "int"}], "Output": null, "cmdtype": "other"}
+{"Receiver": "", "Action": "Else", "Input": null, "Output": null, "cmdtype": "other"}
+	{"Receiver": "this", "Action": "println", "Input": [{"type": "Constant", "value": "Rows were returned to their original positions", "datatype": "java.lang.String"}], "Output": null, "cmdtype": "other"}
+{"Receiver": "WebUI", "Action": "scrollToElement", "Input": [{"type": "Statement", "code": "this.findTestObject(Page_tCC translationNotes/button_MoveRow_xyz8Up)"}, {"type": "Constant", "value": "1", "datatype": "int"}], "Output": null, "cmdtype": "action"}
+{"Receiver": "WebUI", "Action": "click", "Input": [{"type": "Statement", "code": "this.findTestObject(Page_tCC translationNotes/button_MoveRow_xyz8Up)"}], "Output": null, "cmdtype": "action"}
+{"Receiver": "WebUI", "Action": "click", "Input": [{"type": "Statement", "code": "this.findTestObject(Page_tCC translationNotes/button_SaveEnabled - xPath)"}], "Output": null, "cmdtype": "action"}
+{"Receiver": "WebUI", "Action": "delay", "Input": [{"type": "Constant", "value": "1", "datatype": "int"}], "Output": null, "cmdtype": "other"}
+{"Receiver": "WebUI", "Action": "closeBrowser", "Input": [], "Output": null, "cmdtype": "action"}
+{"Receiver": "WebUI", "Action": "callTestCase", "Input": [{"type": "Statement", "code": "this.findTestCase(tCC Components/tCC tsv Open For Edit)"}, {"type": "Constant", "value": "[:]", "datatype": "map"}, {"type": "Variable", "name": "FailureHandling.STOP_ON_FAILURE", "datatype": ""}], "Output": null, "cmdtype": "other"}
+{"Receiver": "WebUI", "Action": "delay", "Input": [{"type": "Constant", "value": "1", "datatype": "int"}], "Output": null, "cmdtype": "other"}
+{"Receiver": "WebUI", "Action": "click", "Input": [{"type": "Statement", "code": "this.findTestObject(Page_tCC translationNotes/button_ViewColumns)"}], "Output": null, "cmdtype": "action"}
+{"Receiver": "WebUI", "Action": "click", "Input": [{"type": "Statement", "code": "this.findTestObject(Page_tCC translationNotes/columns_Parmed, [column:ID])"}], "Output": null, "cmdtype": "action"}
+{"Receiver": "WebUI", "Action": "click", "Input": [{"type": "Statement", "code": "this.findTestObject(Page_tCC translationNotes/btnX_CloseColumns)"}], "Output": null, "cmdtype": "action"}
+{"Receiver": "", "Action": "If", "Input": [{"type": "Statement", "code": "((WebUI.getText(this.findTestObject(Page_tCC translationNotes/p_IdRow2)) != xyz8) || (WebUI.getText(this.findTestObject(Page_tCC translationNotes/p_IdRow3)) != rtc9))"}], "Output": null, "cmdtype": "other"}
+	{"Receiver": "this", "Action": "println", "Input": [{"type": "Constant", "value": "ERROR: Rows do not appear to have been moved before the Save", "datatype": "java.lang.String"}], "Output": null, "cmdtype": "other"}
+	{"Receiver": "this", "Action": "println", "Input": [{"type": "Statement", "code": "(rtc9: + WebUI.getText(this.findTestObject(Page_tCC translationNotes/p_IdRow2)))"}], "Output": null, "cmdtype": "other"}
+	{"Receiver": "this", "Action": "println", "Input": [{"type": "Statement", "code": "(xyz8: + WebUI.getText(this.findTestObject(Page_tCC translationNotes/p_IdRow3)))"}], "Output": null, "cmdtype": "other"}
+	{"Receiver": "CustomKeywords", "Action": "unfoldingWord_Keywords.SendMessage.SendFailMessage", "Input": [{"type": "Constant", "value": "Test failed because the rows do not appear to have been moved before the Save.", "datatype": "java.lang.String"}], "Output": null, "cmdtype": "other"}
+	{"Receiver": "WebUI", "Action": "delay", "Input": [{"type": "Constant", "value": "10", "datatype": "int"}], "Output": null, "cmdtype": "other"}
+{"Receiver": "", "Action": "Else", "Input": null, "Output": null, "cmdtype": "other"}
+	{"Receiver": "this", "Action": "println", "Input": [{"type": "Constant", "value": "Rows were moved and saved as expected", "datatype": "java.lang.String"}], "Output": null, "cmdtype": "other"}
+{"Receiver": "WebUI", "Action": "delay", "Input": [{"type": "Constant", "value": "1", "datatype": "int"}], "Output": null, "cmdtype": "other"}
+{"Receiver": "WebUI", "Action": "scrollToPosition", "Input": [{"type": "Constant", "value": "0", "datatype": "int"}, {"type": "Constant", "value": "2800", "datatype": "int"}], "Output": null, "cmdtype": "action"}
+{"Receiver": "WebUI", "Action": "click", "Input": [{"type": "Statement", "code": "this.findTestObject(Page_tCC translationNotes/button_MoveRow_xyz8Down)"}], "Output": null, "cmdtype": "action"}
+{"Receiver": "", "Action": "If", "Input": [{"type": "Statement", "code": "((WebUI.getText(this.findTestObject(Page_tCC translationNotes/p_IdRow2)) != rtc9) || (WebUI.getText(this.findTestObject(Page_tCC translationNotes/p_IdRow3)) != xyz8))"}], "Output": null, "cmdtype": "other"}
+	{"Receiver": "this", "Action": "println", "Input": [{"type": "Constant", "value": "ERROR: Rows were not returned to the original order", "datatype": "java.lang.String"}], "Output": null, "cmdtype": "other"}
+	{"Receiver": "this", "Action": "println", "Input": [{"type": "Statement", "code": "(rtc9: + WebUI.getText(this.findTestObject(Page_tCC translationNotes/p_IdRow2)))"}], "Output": null, "cmdtype": "other"}
+	{"Receiver": "this", "Action": "println", "Input": [{"type": "Statement", "code": "(xyz8: + WebUI.getText(this.findTestObject(Page_tCC translationNotes/p_IdRow3)))"}], "Output": null, "cmdtype": "other"}
+	{"Receiver": "CustomKeywords", "Action": "unfoldingWord_Keywords.SendMessage.SendFailMessage", "Input": [{"type": "Constant", "value": "Test failed because the rows were not returned to the original order.", "datatype": "java.lang.String"}], "Output": null, "cmdtype": "other"}
+	{"Receiver": "WebUI", "Action": "delay", "Input": [{"type": "Constant", "value": "10", "datatype": "int"}], "Output": null, "cmdtype": "other"}
+{"Receiver": "", "Action": "Else", "Input": null, "Output": null, "cmdtype": "other"}
+	{"Receiver": "this", "Action": "println", "Input": [{"type": "Constant", "value": "Rows have been returned to their original positions after save", "datatype": "java.lang.String"}], "Output": null, "cmdtype": "other"}
+{"Receiver": "WebUI", "Action": "click", "Input": [{"type": "Statement", "code": "this.findTestObject(Page_tCC translationNotes/button_SaveEnabled - xPath)"}], "Output": null, "cmdtype": "action"}
+{"Receiver": "WebUI", "Action": "delay", "Input": [{"type": "Constant", "value": "1", "datatype": "int"}], "Output": null, "cmdtype": "other"}
+{"Receiver": "WebUI", "Action": "closeBrowser", "Input": [], "Output": null, "cmdtype": "action"}

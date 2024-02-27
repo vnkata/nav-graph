@@ -1,0 +1,13 @@
+GroovyParser/mypackage/*.class
+**/__pycache__
+**/todo.md
+GroovyParser/Log/*
+OutputGroovy/*
+StateGraph/Log/*
+Output/*
+
+GroovyParser/OSSN/*
+
+
+
+*.html

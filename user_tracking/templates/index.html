@@ -1,0 +1,64 @@
+<!doctype html>
+
+<html>
+    <head>
+      <style>
+        table, th, td {
+         border: 1px solid; 
+        }
+      </style>
+
+    </head>
+    <body>
+        <h1>User Tracking</h1>
+
+
+
+<table>
+<tr> 
+  <th>Session</th>
+  <th>Timestamp</th>
+  <th>Event</th> 
+  <th>target[selector]</th>
+  <th>target[attributes][tagName]</th>
+  <th>target[attributes][text]</th>
+  <th>target[attributes][id]</th>
+  <th>target[attributes][value]</th>
+  <th>target[attributes][name]</th>
+
+</tr>
+
+  {% for r in result %}
+  <tr>
+  <td>{{r[0]}}</td>
+  <td>{{r[1]}}</td>
+  <td>{{r[2]}}</td>
+  {% if r[3] == 'button' %}
+  <td><strong>{{r[3]}}</strong></td>
+
+  {% else %}
+  <td>{{r[3]}}</td>
+
+  {% endif %}
+  <td>{{r[4]}}</td>
+  <td>{{r[5]}}</td>
+  <td>{{r[6]}}</td>
+  <td>{{r[7]}}</td>
+  <td>{{r[8]}}</td>
+  </tr>
+  {% endfor %}
+
+<!-- {% for r in result %}
+<tr>
+  <td>{{ r[0] }}</td>
+  <td>{{ r[1] }}</td> 
+  <td>{{ r[2] }}</td>
+  <td>{{ r[3] }}</td>
+</tr>
+{% endfor %} --> 
+ </table>
+
+
+
+    </body>
+</html>

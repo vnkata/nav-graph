@@ -1,0 +1,16 @@
+build_and_run: build run
+
+clean:
+	@echo 'Remove .class files'
+	@rm -vf *.class
+	@rm -vf utils/*.class
+
+build:
+	@javac Main.java
+	@echo 'Build completed'
+
+build_file:
+	@javac $(FILE)
+
+run: 
+	@java Main $(STR)

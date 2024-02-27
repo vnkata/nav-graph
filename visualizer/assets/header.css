@@ -1,0 +1,27 @@
+.app_banner {
+    display: flex;
+    justify-content: flex-start;
+    padding-top: 8px;
+}
+
+.app_banner img {
+    height: 48px;
+    width: auto;
+}
+
+.app_header {
+    justify-content: center;
+    text-align: center;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.app_container {
+    margin: 0 3% 3% 3%;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}

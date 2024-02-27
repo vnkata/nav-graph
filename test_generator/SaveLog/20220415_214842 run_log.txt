@@ -1,0 +1,1068 @@
+Merge conditions for place: action+assertion
+
+Processed 32 tests
+Initializing net starts at 2022-04-15 21:48:42.280003
+Total nodes(places & trans): 1119
+Total possible paths: 210588
+Delay test steps found: 1
+Initializing net ends at 2022-04-15 21:49:30.393989
+Initializing net took 0:00:48.113986 to complete
+------------------------------------Iteration 1------------------------------------
+Generating starts at 2022-04-15 21:49:30.393989
+Total generated tests: 18
+No. skipped nodes: 705
+Node coverage on graph (place & trans): 431/1119 = 0.38516532618409294
+
+Generating ends at 2022-04-16 01:59:59.497085
+Generating took 4:10:29.103096 to complete
+Session ID:  _22_Apr_16_Sat_01_59_59
+Test execution starts at 2022-04-16 01:59:59.637681
+Test execution ends at 2022-04-16 02:26:34.289885
+Test execution took 0:26:34.652204 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_020020
+Number of error tests: 0
+Number of passed test cases: 5
+Number of failed test cases: 13
+Total of passed test cases: 40
+Total of failed test cases: 74
+Node coverage on execution (this iteration): 190/1119 = 0.16979445933869527
+Node coverage on execution (all): 571/1119 = 0.5102770330652369
+
+------------------------------------Iteration 2------------------------------------
+Generating starts at 2022-04-16 02:26:34.404751
+Total generated tests: 14
+No. skipped nodes: 786
+Node coverage on graph (place & trans): 350/1119 = 0.3127792672028597
+
+Generating ends at 2022-04-16 03:53:42.995272
+Generating took 1:27:08.590521 to complete
+Session ID:  _22_Apr_16_Sat_03_53_42
+Test execution starts at 2022-04-16 03:53:43.073596
+Test execution ends at 2022-04-16 04:15:57.951736
+Test execution took 0:22:14.878140 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_035400
+Number of error tests: 0
+Number of passed test cases: 1
+Number of failed test cases: 13
+Total of passed test cases: 41
+Total of failed test cases: 87
+Node coverage on execution (this iteration): 49/1119 = 0.043789097408400354
+Node coverage on execution (all): 599/1119 = 0.5352993744414656
+
+------------------------------------Iteration 3------------------------------------
+Generating starts at 2022-04-16 04:15:58.076936
+Total generated tests: 14
+No. skipped nodes: 786
+Node coverage on graph (place & trans): 350/1119 = 0.3127792672028597
+
+Generating ends at 2022-04-16 04:20:35.938239
+Generating took 0:04:37.861303 to complete
+Session ID:  _22_Apr_16_Sat_04_20_35
+Test execution starts at 2022-04-16 04:20:36.016536
+Test execution ends at 2022-04-16 04:42:05.186540
+Test execution took 0:21:29.170004 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_042052
+Number of error tests: 0
+Number of passed test cases: 2
+Number of failed test cases: 12
+Total of passed test cases: 43
+Total of failed test cases: 99
+Node coverage on execution (this iteration): 70/1119 = 0.06255585344057193
+Node coverage on execution (all): 615/1119 = 0.5495978552278821
+
+------------------------------------Iteration 4------------------------------------
+Generating starts at 2022-04-16 04:42:05.311516
+Total generated tests: 15
+No. skipped nodes: 791
+Node coverage on graph (place & trans): 345/1119 = 0.30831099195710454
+
+Generating ends at 2022-04-16 04:54:12.355553
+Generating took 0:12:07.044037 to complete
+Session ID:  _22_Apr_16_Sat_04_54_12
+Test execution starts at 2022-04-16 04:54:12.433659
+Test execution ends at 2022-04-16 05:19:41.607500
+Test execution took 0:25:29.173841 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_045428
+Number of error tests: 0
+Number of passed test cases: 4
+Number of failed test cases: 11
+Total of passed test cases: 47
+Total of failed test cases: 110
+Node coverage on execution (this iteration): 106/1119 = 0.09472743521000894
+Node coverage on execution (all): 620/1119 = 0.5540661304736372
+
+------------------------------------Iteration 5------------------------------------
+Generating starts at 2022-04-16 05:19:41.761688
+Total generated tests: 14
+No. skipped nodes: 791
+Node coverage on graph (place & trans): 345/1119 = 0.30831099195710454
+
+Generating ends at 2022-04-16 05:25:59.232115
+Generating took 0:06:17.470427 to complete
+Session ID:  _22_Apr_16_Sat_05_25_59
+Test execution starts at 2022-04-16 05:25:59.310333
+Test execution ends at 2022-04-16 05:47:29.062006
+Test execution took 0:21:29.751673 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_052616
+Number of error tests: 0
+Number of passed test cases: 2
+Number of failed test cases: 12
+Total of passed test cases: 49
+Total of failed test cases: 122
+Node coverage on execution (this iteration): 66/1119 = 0.058981233243967826
+Node coverage on execution (all): 620/1119 = 0.5540661304736372
+
+------------------------------------Iteration 6------------------------------------
+Generating starts at 2022-04-16 05:47:29.192359
+Total generated tests: 13
+No. skipped nodes: 791
+Node coverage on graph (place & trans): 345/1119 = 0.30831099195710454
+
+Generating ends at 2022-04-16 05:52:23.780063
+Generating took 0:04:54.587704 to complete
+Session ID:  _22_Apr_16_Sat_05_52_23
+Test execution starts at 2022-04-16 05:52:23.863089
+Test execution ends at 2022-04-16 06:15:23.747744
+Test execution took 0:22:59.884655 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_055240
+Number of error tests: 0
+Number of passed test cases: 5
+Number of failed test cases: 8
+Total of passed test cases: 54
+Total of failed test cases: 130
+Node coverage on execution (this iteration): 167/1119 = 0.14924039320822163
+Node coverage on execution (all): 644/1119 = 0.5755138516532619
+
+------------------------------------Iteration 7------------------------------------
+Generating starts at 2022-04-16 06:15:23.904232
+Total generated tests: 14
+No. skipped nodes: 791
+Node coverage on graph (place & trans): 345/1119 = 0.30831099195710454
+
+Generating ends at 2022-04-16 06:23:53.148857
+Generating took 0:08:29.244625 to complete
+Session ID:  _22_Apr_16_Sat_06_23_53
+Test execution starts at 2022-04-16 06:23:53.226963
+Test execution ends at 2022-04-16 06:50:37.969041
+Test execution took 0:26:44.742078 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_062410
+Number of error tests: 0
+Number of passed test cases: 2
+Number of failed test cases: 12
+Total of passed test cases: 56
+Total of failed test cases: 142
+Node coverage on execution (this iteration): 60/1119 = 0.05361930294906166
+Node coverage on execution (all): 644/1119 = 0.5755138516532619
+
+------------------------------------Iteration 8------------------------------------
+Generating starts at 2022-04-16 06:50:38.121073
+Total generated tests: 17
+No. skipped nodes: 791
+Node coverage on graph (place & trans): 345/1119 = 0.30831099195710454
+
+Generating ends at 2022-04-16 06:54:35.837496
+Generating took 0:03:57.716423 to complete
+Session ID:  _22_Apr_16_Sat_06_54_35
+Test execution starts at 2022-04-16 06:54:35.931260
+Test execution ends at 2022-04-16 07:21:05.158842
+Test execution took 0:26:29.227582 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_065452
+Number of error tests: 0
+Number of passed test cases: 1
+Number of failed test cases: 16
+Total of passed test cases: 57
+Total of failed test cases: 158
+Node coverage on execution (this iteration): 49/1119 = 0.043789097408400354
+Node coverage on execution (all): 644/1119 = 0.5755138516532619
+
+------------------------------------Iteration 9------------------------------------
+Generating starts at 2022-04-16 07:21:05.330836
+Total generated tests: 14
+No. skipped nodes: 791
+Node coverage on graph (place & trans): 345/1119 = 0.30831099195710454
+
+Generating ends at 2022-04-16 07:31:57.364093
+Generating took 0:10:52.033257 to complete
+Session ID:  _22_Apr_16_Sat_07_31_57
+Test execution starts at 2022-04-16 07:31:57.452574
+Test execution ends at 2022-04-16 07:53:57.492444
+Test execution took 0:22:00.039870 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_073214
+Number of error tests: 0
+Number of passed test cases: 2
+Number of failed test cases: 12
+Total of passed test cases: 59
+Total of failed test cases: 170
+Node coverage on execution (this iteration): 58/1119 = 0.05183199285075961
+Node coverage on execution (all): 644/1119 = 0.5755138516532619
+
+------------------------------------Iteration 10------------------------------------
+Generating starts at 2022-04-16 07:53:57.680144
+Total generated tests: 16
+No. skipped nodes: 791
+Node coverage on graph (place & trans): 345/1119 = 0.30831099195710454
+
+Generating ends at 2022-04-16 08:01:02.632918
+Generating took 0:07:04.952774 to complete
+Session ID:  _22_Apr_16_Sat_08_01_02
+Test execution starts at 2022-04-16 08:01:02.719297
+Test execution ends at 2022-04-16 08:27:18.857060
+Test execution took 0:26:16.137763 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_080121
+Number of error tests: 0
+Number of passed test cases: 1
+Number of failed test cases: 15
+Total of passed test cases: 60
+Total of failed test cases: 185
+Node coverage on execution (this iteration): 57/1119 = 0.05093833780160858
+Node coverage on execution (all): 644/1119 = 0.5755138516532619
+
+------------------------------------Iteration 11------------------------------------
+Generating starts at 2022-04-16 08:27:19.044463
+Total generated tests: 14
+No. skipped nodes: 791
+Node coverage on graph (place & trans): 345/1119 = 0.30831099195710454
+
+Generating ends at 2022-04-16 08:34:20.090054
+Generating took 0:07:01.045591 to complete
+Session ID:  _22_Apr_16_Sat_08_34_20
+Test execution starts at 2022-04-16 08:34:20.178106
+Test execution ends at 2022-04-16 08:54:43.349900
+Test execution took 0:20:23.171794 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_083445
+Number of error tests: 0
+Number of passed test cases: 3
+Number of failed test cases: 11
+Total of passed test cases: 63
+Total of failed test cases: 196
+Node coverage on execution (this iteration): 106/1119 = 0.09472743521000894
+Node coverage on execution (all): 644/1119 = 0.5755138516532619
+
+------------------------------------Iteration 12------------------------------------
+Generating starts at 2022-04-16 08:54:43.545198
+Total generated tests: 16
+No. skipped nodes: 791
+Node coverage on graph (place & trans): 345/1119 = 0.30831099195710454
+
+Generating ends at 2022-04-16 09:03:50.465155
+Generating took 0:09:06.919957 to complete
+Session ID:  _22_Apr_16_Sat_09_03_50
+Test execution starts at 2022-04-16 09:03:50.560899
+Test execution ends at 2022-04-16 09:26:53.908429
+Test execution took 0:23:03.347530 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_090410
+Number of error tests: 0
+Number of passed test cases: 2
+Number of failed test cases: 14
+Total of passed test cases: 65
+Total of failed test cases: 210
+Node coverage on execution (this iteration): 98/1119 = 0.08757819481680071
+Node coverage on execution (all): 647/1119 = 0.5781948168007149
+
+------------------------------------Iteration 13------------------------------------
+Generating starts at 2022-04-16 09:26:54.119895
+Total generated tests: 16
+No. skipped nodes: 791
+Node coverage on graph (place & trans): 345/1119 = 0.30831099195710454
+
+Generating ends at 2022-04-16 09:35:07.610743
+Generating took 0:08:13.490848 to complete
+Session ID:  _22_Apr_16_Sat_09_35_07
+Test execution starts at 2022-04-16 09:35:07.704028
+Test execution ends at 2022-04-16 09:58:56.173500
+Test execution took 0:23:48.469472 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_093527
+Number of error tests: 0
+Number of passed test cases: 3
+Number of failed test cases: 13
+Total of passed test cases: 68
+Total of failed test cases: 223
+Node coverage on execution (this iteration): 97/1119 = 0.08668453976764968
+Node coverage on execution (all): 647/1119 = 0.5781948168007149
+
+------------------------------------Iteration 14------------------------------------
+Generating starts at 2022-04-16 09:58:56.391621
+Total generated tests: 15
+No. skipped nodes: 791
+Node coverage on graph (place & trans): 345/1119 = 0.30831099195710454
+
+Generating ends at 2022-04-16 10:03:08.470617
+Generating took 0:04:12.078996 to complete
+Session ID:  _22_Apr_16_Sat_10_03_08
+Test execution starts at 2022-04-16 10:03:08.565365
+Test execution ends at 2022-04-16 10:16:36.000274
+Test execution took 0:13:27.434909 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_100338
+Number of error tests: 0
+F: Test filtered 224 Test existed 236
+F: Test filtered 228 Test existed 234
+Number of passed test cases: 0
+Number of failed test cases: 15
+Total of passed test cases: 68
+Total of failed test cases: 236
+Node coverage on execution (this iteration): 0/1119 = 0.0
+Node coverage on execution (all): 647/1119 = 0.5781948168007149
+
+------------------------------------Iteration 15------------------------------------
+Generating starts at 2022-04-16 10:16:36.236641
+Total generated tests: 16
+No. skipped nodes: 791
+Node coverage on graph (place & trans): 345/1119 = 0.30831099195710454
+
+Generating ends at 2022-04-16 10:28:45.938652
+Generating took 0:12:09.702011 to complete
+Session ID:  _22_Apr_16_Sat_10_28_45
+Test execution starts at 2022-04-16 10:28:46.058331
+Test execution ends at 2022-04-16 10:42:50.250900
+Test execution took 0:14:04.192569 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_102906
+Number of error tests: 0
+F: Test filtered 241 Test existed 251
+F: Test filtered 243 Test existed 248
+F: Test filtered 238 Test existed 247
+Number of passed test cases: 0
+Number of failed test cases: 16
+Total of passed test cases: 68
+Total of failed test cases: 249
+Node coverage on execution (this iteration): 0/1119 = 0.0
+Node coverage on execution (all): 647/1119 = 0.5781948168007149
+
+------------------------------------Iteration 16------------------------------------
+Generating starts at 2022-04-16 10:42:50.543088
+Total generated tests: 14
+No. skipped nodes: 796
+Node coverage on graph (place & trans): 340/1119 = 0.30384271671134944
+
+Generating ends at 2022-04-16 11:10:48.584678
+Generating took 0:27:58.041590 to complete
+Session ID:  _22_Apr_16_Sat_11_10_48
+Test execution starts at 2022-04-16 11:10:48.671497
+Test execution ends at 2022-04-16 11:26:36.253807
+Test execution took 0:15:47.582310 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_111107
+Number of error tests: 0
+F: Test filtered 254 Test existed 261
+F: Test filtered 251 Test existed 260
+Number of passed test cases: 0
+Number of failed test cases: 14
+Total of passed test cases: 68
+Total of failed test cases: 261
+Node coverage on execution (this iteration): 0/1119 = 0.0
+Node coverage on execution (all): 647/1119 = 0.5781948168007149
+
+------------------------------------Iteration 17------------------------------------
+Generating starts at 2022-04-16 11:26:36.470068
+Total generated tests: 9
+No. skipped nodes: 917
+Node coverage on graph (place & trans): 219/1119 = 0.19571045576407506
+
+Generating ends at 2022-04-16 17:32:44.109278
+Generating took 6:06:07.639210 to complete
+Session ID:  _22_Apr_16_Sat_17_32_44
+Test execution starts at 2022-04-16 17:32:44.171763
+Test execution ends at 2022-04-16 17:44:18.915160
+Test execution took 0:11:34.743397 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_173305
+Number of error tests: 0
+Number of passed test cases: 0
+Number of failed test cases: 9
+Total of passed test cases: 68
+Total of failed test cases: 270
+Node coverage on execution (this iteration): 0/1119 = 0.0
+Node coverage on execution (all): 647/1119 = 0.5781948168007149
+
+------------------------------------Iteration 18------------------------------------
+Generating starts at 2022-04-16 17:44:19.149481
+Total generated tests: 8
+No. skipped nodes: 917
+Node coverage on graph (place & trans): 219/1119 = 0.19571045576407506
+
+Generating ends at 2022-04-16 17:44:54.719246
+Generating took 0:00:35.569765 to complete
+Session ID:  _22_Apr_16_Sat_17_44_54
+Test execution starts at 2022-04-16 17:44:54.766079
+Test execution ends at 2022-04-16 17:54:09.653985
+Test execution took 0:09:14.887906 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_174512
+Number of error tests: 0
+Number of passed test cases: 0
+Number of failed test cases: 8
+Total of passed test cases: 68
+Total of failed test cases: 278
+Node coverage on execution (this iteration): 0/1119 = 0.0
+Node coverage on execution (all): 647/1119 = 0.5781948168007149
+
+------------------------------------Iteration 19------------------------------------
+Generating starts at 2022-04-16 17:54:09.889098
+Total generated tests: 8
+No. skipped nodes: 917
+Node coverage on graph (place & trans): 219/1119 = 0.19571045576407506
+
+Generating ends at 2022-04-16 17:55:09.602716
+Generating took 0:00:59.713618 to complete
+Session ID:  _22_Apr_16_Sat_17_55_09
+Test execution starts at 2022-04-16 17:55:09.649580
+Test execution ends at 2022-04-16 18:05:39.501498
+Test execution took 0:10:29.851918 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_175527
+Number of error tests: 0
+Number of passed test cases: 3
+Number of failed test cases: 5
+Total of passed test cases: 71
+Total of failed test cases: 283
+Node coverage on execution (this iteration): 82/1119 = 0.07327971403038427
+Node coverage on execution (all): 647/1119 = 0.5781948168007149
+
+------------------------------------Iteration 20------------------------------------
+Generating starts at 2022-04-16 18:05:39.720192
+Total generated tests: 8
+No. skipped nodes: 917
+Node coverage on graph (place & trans): 219/1119 = 0.19571045576407506
+
+Generating ends at 2022-04-16 18:06:05.323559
+Generating took 0:00:25.603367 to complete
+Session ID:  _22_Apr_16_Sat_18_06_05
+Test execution starts at 2022-04-16 18:06:05.370423
+Test execution ends at 2022-04-16 18:15:18.943298
+Test execution took 0:09:13.572875 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_180621
+Number of error tests: 0
+Number of passed test cases: 0
+Number of failed test cases: 8
+Total of passed test cases: 71
+Total of failed test cases: 291
+Node coverage on execution (this iteration): 0/1119 = 0.0
+Node coverage on execution (all): 647/1119 = 0.5781948168007149
+
+------------------------------------Iteration 21------------------------------------
+Generating starts at 2022-04-16 18:15:19.209059
+Total generated tests: 8
+No. skipped nodes: 917
+Node coverage on graph (place & trans): 219/1119 = 0.19571045576407506
+
+Generating ends at 2022-04-16 18:15:33.909348
+Generating took 0:00:14.700289 to complete
+Session ID:  _22_Apr_16_Sat_18_15_33
+Test execution starts at 2022-04-16 18:15:33.968430
+Test execution ends at 2022-04-16 18:25:38.435658
+Test execution took 0:10:04.467228 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_181551
+Number of error tests: 0
+Number of passed test cases: 1
+Number of failed test cases: 7
+Total of passed test cases: 72
+Total of failed test cases: 298
+Node coverage on execution (this iteration): 53/1119 = 0.04736371760500447
+Node coverage on execution (all): 647/1119 = 0.5781948168007149
+
+------------------------------------Iteration 22------------------------------------
+Generating starts at 2022-04-16 18:25:38.678449
+Total generated tests: 8
+No. skipped nodes: 917
+Node coverage on graph (place & trans): 219/1119 = 0.19571045576407506
+
+Generating ends at 2022-04-16 18:26:12.997584
+Generating took 0:00:34.319135 to complete
+Session ID:  _22_Apr_16_Sat_18_26_12
+Test execution starts at 2022-04-16 18:26:13.044453
+Test execution ends at 2022-04-16 18:35:12.712504
+Test execution took 0:08:59.668051 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_182630
+Number of error tests: 0
+Number of passed test cases: 0
+Number of failed test cases: 8
+Total of passed test cases: 72
+Total of failed test cases: 306
+Node coverage on execution (this iteration): 0/1119 = 0.0
+Node coverage on execution (all): 647/1119 = 0.5781948168007149
+
+------------------------------------Iteration 23------------------------------------
+Generating starts at 2022-04-16 18:35:12.949040
+Total generated tests: 7
+No. skipped nodes: 917
+Node coverage on graph (place & trans): 219/1119 = 0.19571045576407506
+
+Generating ends at 2022-04-16 18:35:52.576429
+Generating took 0:00:39.627389 to complete
+Session ID:  _22_Apr_16_Sat_18_35_52
+Test execution starts at 2022-04-16 18:35:52.602098
+Test execution ends at 2022-04-16 18:45:07.812362
+Test execution took 0:09:15.210264 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_183610
+Number of error tests: 0
+Number of passed test cases: 0
+Number of failed test cases: 7
+Total of passed test cases: 72
+Total of failed test cases: 313
+Node coverage on execution (this iteration): 0/1119 = 0.0
+Node coverage on execution (all): 647/1119 = 0.5781948168007149
+
+------------------------------------Iteration 24------------------------------------
+Generating starts at 2022-04-16 18:45:08.170725
+Total generated tests: 7
+No. skipped nodes: 917
+Node coverage on graph (place & trans): 219/1119 = 0.19571045576407506
+
+Generating ends at 2022-04-16 18:45:45.142590
+Generating took 0:00:36.971865 to complete
+Session ID:  _22_Apr_16_Sat_18_45_45
+Test execution starts at 2022-04-16 18:45:45.189421
+Test execution ends at 2022-04-16 18:54:29.782175
+Test execution took 0:08:44.592754 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_184602
+Number of error tests: 0
+Number of passed test cases: 0
+Number of failed test cases: 7
+Total of passed test cases: 72
+Total of failed test cases: 320
+Node coverage on execution (this iteration): 0/1119 = 0.0
+Node coverage on execution (all): 647/1119 = 0.5781948168007149
+
+------------------------------------Iteration 25------------------------------------
+Generating starts at 2022-04-16 18:54:30.047734
+Total generated tests: 7
+No. skipped nodes: 917
+Node coverage on graph (place & trans): 219/1119 = 0.19571045576407506
+
+Generating ends at 2022-04-16 18:54:51.358695
+Generating took 0:00:21.310961 to complete
+Session ID:  _22_Apr_16_Sat_18_54_51
+Test execution starts at 2022-04-16 18:54:51.405527
+Test execution ends at 2022-04-16 19:03:35.222105
+Test execution took 0:08:43.816578 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_185508
+Number of error tests: 0
+Number of passed test cases: 0
+Number of failed test cases: 7
+Total of passed test cases: 72
+Total of failed test cases: 327
+Node coverage on execution (this iteration): 0/1119 = 0.0
+Node coverage on execution (all): 647/1119 = 0.5781948168007149
+
+------------------------------------Iteration 26------------------------------------
+Generating starts at 2022-04-16 19:03:35.462007
+Total generated tests: 7
+No. skipped nodes: 917
+Node coverage on graph (place & trans): 219/1119 = 0.19571045576407506
+
+Generating ends at 2022-04-16 19:03:35.781683
+Generating took 0:00:00.319676 to complete
+Session ID:  _22_Apr_16_Sat_19_03_35
+Test execution starts at 2022-04-16 19:03:35.823020
+Test execution ends at 2022-04-16 19:12:20.746246
+Test execution took 0:08:44.923226 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_190353
+Number of error tests: 0
+Number of passed test cases: 0
+Number of failed test cases: 7
+Total of passed test cases: 72
+Total of failed test cases: 334
+Node coverage on execution (this iteration): 0/1119 = 0.0
+Node coverage on execution (all): 647/1119 = 0.5781948168007149
+
+------------------------------------Iteration 27------------------------------------
+Generating starts at 2022-04-16 19:12:21.011764
+Total generated tests: 7
+No. skipped nodes: 917
+Node coverage on graph (place & trans): 219/1119 = 0.19571045576407506
+
+Generating ends at 2022-04-16 19:13:47.682023
+Generating took 0:01:26.670259 to complete
+Session ID:  _22_Apr_16_Sat_19_13_47
+Test execution starts at 2022-04-16 19:13:47.728894
+Test execution ends at 2022-04-16 19:22:19.550931
+Test execution took 0:08:31.822037 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_191405
+Number of error tests: 0
+Number of passed test cases: 1
+Number of failed test cases: 6
+Total of passed test cases: 73
+Total of failed test cases: 340
+Node coverage on execution (this iteration): 45/1119 = 0.040214477211796246
+Node coverage on execution (all): 647/1119 = 0.5781948168007149
+
+------------------------------------Iteration 28------------------------------------
+Generating starts at 2022-04-16 19:22:19.816489
+Total generated tests: 12
+No. skipped nodes: 917
+Node coverage on graph (place & trans): 219/1119 = 0.19571045576407506
+
+Generating ends at 2022-04-16 19:24:43.185853
+Generating took 0:02:23.369364 to complete
+Session ID:  _22_Apr_16_Sat_19_24_43
+Test execution starts at 2022-04-16 19:24:43.263958
+Test execution ends at 2022-04-16 19:39:28.551111
+Test execution took 0:14:45.287153 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_192500
+Number of error tests: 0
+Number of passed test cases: 1
+Number of failed test cases: 11
+Total of passed test cases: 74
+Total of failed test cases: 351
+Node coverage on execution (this iteration): 61/1119 = 0.05451295799821269
+Node coverage on execution (all): 647/1119 = 0.5781948168007149
+
+------------------------------------Iteration 29------------------------------------
+Generating starts at 2022-04-16 19:39:28.856585
+Total generated tests: 8
+No. skipped nodes: 917
+Node coverage on graph (place & trans): 219/1119 = 0.19571045576407506
+
+Generating ends at 2022-04-16 19:41:59.180650
+Generating took 0:02:30.324065 to complete
+Session ID:  _22_Apr_16_Sat_19_41_59
+Test execution starts at 2022-04-16 19:41:59.234660
+Test execution ends at 2022-04-16 19:51:37.333470
+Test execution took 0:09:38.098810 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_194223
+Number of error tests: 0
+Number of passed test cases: 1
+Number of failed test cases: 7
+Total of passed test cases: 75
+Total of failed test cases: 358
+Node coverage on execution (this iteration): 49/1119 = 0.043789097408400354
+Node coverage on execution (all): 647/1119 = 0.5781948168007149
+
+------------------------------------Iteration 30------------------------------------
+Generating starts at 2022-04-16 19:51:37.644594
+Total generated tests: 8
+No. skipped nodes: 917
+Node coverage on graph (place & trans): 219/1119 = 0.19571045576407506
+
+Generating ends at 2022-04-16 19:54:31.944915
+Generating took 0:02:54.300321 to complete
+Session ID:  _22_Apr_16_Sat_19_54_31
+Test execution starts at 2022-04-16 19:54:31.991779
+Test execution ends at 2022-04-16 20:05:02.833644
+Test execution took 0:10:30.841865 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_195450
+Number of error tests: 0
+Number of passed test cases: 0
+Number of failed test cases: 8
+Total of passed test cases: 75
+Total of failed test cases: 366
+Node coverage on execution (this iteration): 0/1119 = 0.0
+Node coverage on execution (all): 647/1119 = 0.5781948168007149
+
+------------------------------------Iteration 31------------------------------------
+Generating starts at 2022-04-16 20:05:03.128816
+Total generated tests: 7
+No. skipped nodes: 917
+Node coverage on graph (place & trans): 219/1119 = 0.19571045576407506
+
+Generating ends at 2022-04-16 20:08:25.859698
+Generating took 0:03:22.730882 to complete
+Session ID:  _22_Apr_16_Sat_20_08_25
+Test execution starts at 2022-04-16 20:08:25.900552
+Test execution ends at 2022-04-16 20:17:44.022615
+Test execution took 0:09:18.122063 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_200845
+Number of error tests: 0
+Number of passed test cases: 1
+Number of failed test cases: 6
+Total of passed test cases: 76
+Total of failed test cases: 372
+Node coverage on execution (this iteration): 37/1119 = 0.03306523681858802
+Node coverage on execution (all): 650/1119 = 0.580875781948168
+
+------------------------------------Iteration 32------------------------------------
+Generating starts at 2022-04-16 20:17:44.311810
+Total generated tests: 9
+No. skipped nodes: 917
+Node coverage on graph (place & trans): 219/1119 = 0.19571045576407506
+
+Generating ends at 2022-04-16 20:20:21.141453
+Generating took 0:02:36.829643 to complete
+Session ID:  _22_Apr_16_Sat_20_20_21
+Test execution starts at 2022-04-16 20:20:21.201538
+Test execution ends at 2022-04-16 20:31:25.121089
+Test execution took 0:11:03.919551 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_202041
+Number of error tests: 0
+Number of passed test cases: 1
+Number of failed test cases: 8
+Total of passed test cases: 77
+Total of failed test cases: 380
+Node coverage on execution (this iteration): 41/1119 = 0.03663985701519214
+Node coverage on execution (all): 650/1119 = 0.580875781948168
+
+------------------------------------Iteration 33------------------------------------
+Generating starts at 2022-04-16 20:31:25.430188
+Total generated tests: 6
+No. skipped nodes: 917
+Node coverage on graph (place & trans): 219/1119 = 0.19571045576407506
+
+Generating ends at 2022-04-16 20:32:27.635011
+Generating took 0:01:02.204823 to complete
+Session ID:  _22_Apr_16_Sat_20_32_27
+Test execution starts at 2022-04-16 20:32:27.677979
+Test execution ends at 2022-04-16 20:40:19.836244
+Test execution took 0:07:52.158265 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_203251
+Number of error tests: 0
+Number of passed test cases: 1
+Number of failed test cases: 5
+Total of passed test cases: 78
+Total of failed test cases: 385
+Node coverage on execution (this iteration): 47/1119 = 0.0420017873100983
+Node coverage on execution (all): 650/1119 = 0.580875781948168
+
+------------------------------------Iteration 34------------------------------------
+Generating starts at 2022-04-16 20:40:20.209189
+Total generated tests: 7
+No. skipped nodes: 917
+Node coverage on graph (place & trans): 219/1119 = 0.19571045576407506
+
+Generating ends at 2022-04-16 20:42:05.131048
+Generating took 0:01:44.921859 to complete
+Session ID:  _22_Apr_16_Sat_20_42_05
+Test execution starts at 2022-04-16 20:42:05.186898
+Test execution ends at 2022-04-16 20:51:58.679434
+Test execution took 0:09:53.492536 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_204230
+Number of error tests: 0
+Number of passed test cases: 1
+Number of failed test cases: 6
+Total of passed test cases: 79
+Total of failed test cases: 391
+Node coverage on execution (this iteration): 63/1119 = 0.05630026809651475
+Node coverage on execution (all): 650/1119 = 0.580875781948168
+
+------------------------------------Iteration 35------------------------------------
+Generating starts at 2022-04-16 20:51:58.958884
+Total generated tests: 7
+No. skipped nodes: 917
+Node coverage on graph (place & trans): 219/1119 = 0.19571045576407506
+
+Generating ends at 2022-04-16 20:54:18.800093
+Generating took 0:02:19.841209 to complete
+Session ID:  _22_Apr_16_Sat_20_54_18
+Test execution starts at 2022-04-16 20:54:18.841140
+Test execution ends at 2022-04-16 21:03:52.517664
+Test execution took 0:09:33.677514 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_205439
+Number of error tests: 0
+Number of passed test cases: 0
+Number of failed test cases: 7
+Total of passed test cases: 79
+Total of failed test cases: 398
+Node coverage on execution (this iteration): 0/1119 = 0.0
+Node coverage on execution (all): 650/1119 = 0.580875781948168
+
+------------------------------------Iteration 36------------------------------------
+Generating starts at 2022-04-16 21:03:53.034573
+Total generated tests: 8
+No. skipped nodes: 917
+Node coverage on graph (place & trans): 219/1119 = 0.19571045576407506
+
+Generating ends at 2022-04-16 21:07:14.909587
+Generating took 0:03:21.875014 to complete
+Session ID:  _22_Apr_16_Sat_21_07_14
+Test execution starts at 2022-04-16 21:07:14.972038
+Test execution ends at 2022-04-16 21:16:52.800779
+Test execution took 0:09:37.828741 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_210739
+Number of error tests: 0
+Number of passed test cases: 0
+Number of failed test cases: 8
+Total of passed test cases: 79
+Total of failed test cases: 406
+Node coverage on execution (this iteration): 0/1119 = 0.0
+Node coverage on execution (all): 650/1119 = 0.580875781948168
+
+------------------------------------Iteration 37------------------------------------
+Generating starts at 2022-04-16 21:16:53.223738
+Total generated tests: 7
+No. skipped nodes: 917
+Node coverage on graph (place & trans): 219/1119 = 0.19571045576407506
+
+Generating ends at 2022-04-16 21:22:11.178155
+Generating took 0:05:17.954417 to complete
+Session ID:  _22_Apr_16_Sat_21_22_11
+Test execution starts at 2022-04-16 21:22:11.240900
+Test execution ends at 2022-04-16 21:31:18.441203
+Test execution took 0:09:07.200303 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_212234
+Number of error tests: 0
+Number of passed test cases: 1
+Number of failed test cases: 6
+Total of passed test cases: 80
+Total of failed test cases: 412
+Node coverage on execution (this iteration): 43/1119 = 0.03842716711349419
+Node coverage on execution (all): 650/1119 = 0.580875781948168
+
+------------------------------------Iteration 38------------------------------------
+Generating starts at 2022-04-16 21:31:18.816199
+Total generated tests: 8
+No. skipped nodes: 917
+Node coverage on graph (place & trans): 219/1119 = 0.19571045576407506
+
+Generating ends at 2022-04-16 21:34:14.724958
+Generating took 0:02:55.908759 to complete
+Session ID:  _22_Apr_16_Sat_21_34_14
+Test execution starts at 2022-04-16 21:34:14.769838
+Test execution ends at 2022-04-16 21:45:32.879123
+Test execution took 0:11:18.110283 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_213435
+Number of error tests: 0
+Number of passed test cases: 1
+Number of failed test cases: 7
+Total of passed test cases: 81
+Total of failed test cases: 419
+Node coverage on execution (this iteration): 43/1119 = 0.03842716711349419
+Node coverage on execution (all): 650/1119 = 0.580875781948168
+
+------------------------------------Iteration 39------------------------------------
+Generating starts at 2022-04-16 21:45:33.172131
+Total generated tests: 9
+No. skipped nodes: 917
+Node coverage on graph (place & trans): 219/1119 = 0.19571045576407506
+
+Generating ends at 2022-04-16 21:50:52.762642
+Generating took 0:05:19.590511 to complete
+Session ID:  _22_Apr_16_Sat_21_50_52
+Test execution starts at 2022-04-16 21:50:52.819492
+Test execution ends at 2022-04-16 22:01:44.309275
+Test execution took 0:10:51.489783 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_215116
+Number of error tests: 0
+Number of passed test cases: 2
+Number of failed test cases: 7
+Total of passed test cases: 83
+Total of failed test cases: 426
+Node coverage on execution (this iteration): 74/1119 = 0.06613047363717604
+Node coverage on execution (all): 650/1119 = 0.580875781948168
+
+------------------------------------Iteration 40------------------------------------
+Generating starts at 2022-04-16 22:01:44.669410
+Total generated tests: 8
+No. skipped nodes: 917
+Node coverage on graph (place & trans): 219/1119 = 0.19571045576407506
+
+Generating ends at 2022-04-16 22:07:53.733414
+Generating took 0:06:09.064004 to complete
+Session ID:  _22_Apr_16_Sat_22_07_53
+Test execution starts at 2022-04-16 22:07:53.780310
+Test execution ends at 2022-04-16 22:17:26.875738
+Test execution took 0:09:33.095428 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_220813
+Number of error tests: 0
+Number of passed test cases: 0
+Number of failed test cases: 8
+Total of passed test cases: 83
+Total of failed test cases: 434
+Node coverage on execution (this iteration): 0/1119 = 0.0
+Node coverage on execution (all): 650/1119 = 0.580875781948168
+
+------------------------------------Iteration 41------------------------------------
+Generating starts at 2022-04-16 22:17:27.274305
+Total generated tests: 10
+No. skipped nodes: 917
+Node coverage on graph (place & trans): 219/1119 = 0.19571045576407506
+
+Generating ends at 2022-04-16 22:20:11.019949
+Generating took 0:02:43.745644 to complete
+Session ID:  _22_Apr_16_Sat_22_20_11
+Test execution starts at 2022-04-16 22:20:11.083779
+Test execution ends at 2022-04-16 22:35:33.772686
+Test execution took 0:15:22.689906 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_222034
+Number of error tests: 0
+F: Test filtered 435 Test existed 437
+Number of passed test cases: 1
+Number of failed test cases: 9
+Total of passed test cases: 84
+Total of failed test cases: 442
+Node coverage on execution (this iteration): 47/1119 = 0.0420017873100983
+Node coverage on execution (all): 650/1119 = 0.580875781948168
+
+------------------------------------Iteration 42------------------------------------
+Generating starts at 2022-04-16 22:35:34.225482
+Total generated tests: 6
+No. skipped nodes: 920
+Node coverage on graph (place & trans): 216/1119 = 0.19302949061662197
+
+Generating ends at 2022-04-16 22:51:47.201678
+Generating took 0:16:12.976196 to complete
+Session ID:  _22_Apr_16_Sat_22_51_47
+Test execution starts at 2022-04-16 22:51:47.236607
+Test execution ends at 2022-04-16 22:58:50.658035
+Test execution took 0:07:03.422421 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_225207
+Number of error tests: 0
+Number of passed test cases: 1
+Number of failed test cases: 5
+Total of passed test cases: 85
+Total of failed test cases: 447
+Node coverage on execution (this iteration): 41/1119 = 0.03663985701519214
+Node coverage on execution (all): 650/1119 = 0.580875781948168
+
+------------------------------------Iteration 43------------------------------------
+Generating starts at 2022-04-16 22:58:51.048958
+Total generated tests: 8
+No. skipped nodes: 920
+Node coverage on graph (place & trans): 216/1119 = 0.19302949061662197
+
+Generating ends at 2022-04-16 23:02:54.591746
+Generating took 0:04:03.542788 to complete
+Session ID:  _22_Apr_16_Sat_23_02_54
+Test execution starts at 2022-04-16 23:02:54.647598
+Test execution ends at 2022-04-16 23:13:16.574331
+Test execution took 0:10:21.926733 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_230318
+Number of error tests: 0
+Number of passed test cases: 1
+Number of failed test cases: 7
+Total of passed test cases: 86
+Total of failed test cases: 454
+Node coverage on execution (this iteration): 35/1119 = 0.03127792672028597
+Node coverage on execution (all): 650/1119 = 0.580875781948168
+
+------------------------------------Iteration 44------------------------------------
+Generating starts at 2022-04-16 23:13:16.974260
+Total generated tests: 9
+No. skipped nodes: 920
+Node coverage on graph (place & trans): 216/1119 = 0.19302949061662197
+
+Generating ends at 2022-04-16 23:16:49.787925
+Generating took 0:03:32.813665 to complete
+Session ID:  _22_Apr_16_Sat_23_16_49
+Test execution starts at 2022-04-16 23:16:49.840784
+Test execution ends at 2022-04-16 23:28:11.173974
+Test execution took 0:11:21.333190 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_231712
+Number of error tests: 0
+Number of passed test cases: 2
+Number of failed test cases: 7
+Total of passed test cases: 88
+Total of failed test cases: 461
+Node coverage on execution (this iteration): 77/1119 = 0.06881143878462913
+Node coverage on execution (all): 650/1119 = 0.580875781948168
+
+------------------------------------Iteration 45------------------------------------
+Generating starts at 2022-04-16 23:28:11.584876
+Total generated tests: 10
+No. skipped nodes: 920
+Node coverage on graph (place & trans): 216/1119 = 0.19302949061662197
+
+Generating ends at 2022-04-16 23:28:13.049387
+Generating took 0:00:01.464511 to complete
+Session ID:  _22_Apr_16_Sat_23_28_13
+Test execution starts at 2022-04-16 23:28:13.112218
+Test execution ends at 2022-04-16 23:40:34.999461
+Test execution took 0:12:21.887243 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_232836
+Number of error tests: 0
+Number of passed test cases: 1
+Number of failed test cases: 9
+Total of passed test cases: 89
+Total of failed test cases: 470
+Node coverage on execution (this iteration): 43/1119 = 0.03842716711349419
+Node coverage on execution (all): 650/1119 = 0.580875781948168
+
+------------------------------------Iteration 46------------------------------------
+Generating starts at 2022-04-16 23:40:35.360009
+Total generated tests: 7
+No. skipped nodes: 920
+Node coverage on graph (place & trans): 216/1119 = 0.19302949061662197
+
+Generating ends at 2022-04-16 23:42:43.191883
+Generating took 0:02:07.831874 to complete
+Session ID:  _22_Apr_16_Sat_23_42_43
+Test execution starts at 2022-04-16 23:42:43.234768
+Test execution ends at 2022-04-16 23:51:34.209879
+Test execution took 0:08:50.975111 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_234305
+Number of error tests: 0
+Number of passed test cases: 1
+Number of failed test cases: 6
+Total of passed test cases: 90
+Total of failed test cases: 476
+Node coverage on execution (this iteration): 49/1119 = 0.043789097408400354
+Node coverage on execution (all): 650/1119 = 0.580875781948168
+
+------------------------------------Iteration 47------------------------------------
+Generating starts at 2022-04-16 23:51:34.688487
+Total generated tests: 6
+No. skipped nodes: 920
+Node coverage on graph (place & trans): 216/1119 = 0.19302949061662197
+
+Generating ends at 2022-04-16 23:55:12.314412
+Generating took 0:03:37.625925 to complete
+Session ID:  _22_Apr_16_Sat_23_55_12
+Test execution starts at 2022-04-16 23:55:12.368269
+Test execution ends at 2022-04-17 00:03:33.500668
+Test execution took 0:08:21.132399 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220416_235535
+Number of error tests: 0
+Number of passed test cases: 0
+Number of failed test cases: 6
+Total of passed test cases: 90
+Total of failed test cases: 482
+Node coverage on execution (this iteration): 0/1119 = 0.0
+Node coverage on execution (all): 650/1119 = 0.580875781948168
+
+------------------------------------Iteration 48------------------------------------
+Generating starts at 2022-04-17 00:03:33.861224
+Total generated tests: 5
+No. skipped nodes: 920
+Node coverage on graph (place & trans): 216/1119 = 0.19302949061662197
+
+Generating ends at 2022-04-17 00:06:54.235542
+Generating took 0:03:20.374318 to complete
+Session ID:  _22_Apr_17_Sun_00_06_54
+Test execution starts at 2022-04-17 00:06:54.265464
+Test execution ends at 2022-04-17 00:13:41.211165
+Test execution took 0:06:46.945701 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220417_000714
+Number of error tests: 0
+Number of passed test cases: 0
+Number of failed test cases: 5
+Total of passed test cases: 90
+Total of failed test cases: 487
+Node coverage on execution (this iteration): 0/1119 = 0.0
+Node coverage on execution (all): 650/1119 = 0.580875781948168
+
+------------------------------------Iteration 49------------------------------------
+Generating starts at 2022-04-17 00:13:41.533498
+Total generated tests: 6
+No. skipped nodes: 920
+Node coverage on graph (place & trans): 216/1119 = 0.19302949061662197
+
+Generating ends at 2022-04-17 00:14:55.874024
+Generating took 0:01:14.340526 to complete
+Session ID:  _22_Apr_17_Sun_00_14_55
+Test execution starts at 2022-04-17 00:14:55.908319
+Test execution ends at 2022-04-17 00:22:28.032066
+Test execution took 0:07:32.123747 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220417_001516
+Number of error tests: 0
+Number of passed test cases: 0
+Number of failed test cases: 6
+Total of passed test cases: 90
+Total of failed test cases: 493
+Node coverage on execution (this iteration): 0/1119 = 0.0
+Node coverage on execution (all): 650/1119 = 0.580875781948168
+
+------------------------------------Iteration 50------------------------------------
+Generating starts at 2022-04-17 00:22:28.360081
+Total generated tests: 7
+No. skipped nodes: 920
+Node coverage on graph (place & trans): 216/1119 = 0.19302949061662197
+
+Generating ends at 2022-04-17 00:23:18.291583
+Generating took 0:00:49.931502 to complete
+Session ID:  _22_Apr_17_Sun_00_23_18
+Test execution starts at 2022-04-17 00:23:18.338416
+Test execution ends at 2022-04-17 00:32:32.584898
+Test execution took 0:09:14.246482 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-14/Test Automation - SE Bonus/Reports\20220417_002335
+Number of error tests: 0
+Number of passed test cases: 1
+Number of failed test cases: 6
+Total of passed test cases: 91
+Total of failed test cases: 499
+Node coverage on execution (this iteration): 41/1119 = 0.03663985701519214
+Node coverage on execution (all): 650/1119 = 0.580875781948168
+
+Convergence on execution reached. Stop iterative generation

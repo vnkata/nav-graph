@@ -1,0 +1,5 @@
+initial-place;;;WebUI.openBrowser('');;;WebUI.openBrowser('');:;;:;_p1
+WebUI.openBrowser('');:;;:;_p1;;;WebUI.navigateToUrl('http://localhost/');;;WebUI.navigateToUrl('http://localhost/');:;;:;_p1
+WebUI.navigateToUrl('http://localhost/');:;;:;_p1;;;WebUI.click(this.findTestObject('Object Repository/Page_Moodle/a_Log in'));;;WebUI.click(this.findTestObject('Object Repository/Page_Moodle/a_Log in'));:;;:;_p1
+WebUI.click(this.findTestObject('Object Repository/Page_Moodle/a_Log in'));:;;:;_p1;;;WebUI.click(this.findTestObject('Object Repository/Page_Moodle Log in to the site/button_Log in'));;;WebUI.click(this.findTestObject('Object Repository/Page_Moodle Log in to the site/button_Log in'));:;;:;_p1
+WebUI.click(this.findTestObject('Object Repository/Page_Moodle Log in to the site/button_Log in'));:;;:;_p1;;;WebUI.closeBrowser();;;WebUI.closeBrowser();:;;:;_p1

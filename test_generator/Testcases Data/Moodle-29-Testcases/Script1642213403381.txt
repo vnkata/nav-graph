@@ -1,0 +1,11 @@
+{"Receiver": "WebUI", "Action": "openBrowser", "Input": [{"type": "Constant", "value": "", "datatype": "java.lang.String"}], "Output": [], "Child": null}
+{"Receiver": "WebUI", "Action": "navigateToUrl", "Input": [{"type": "Constant", "value": "http://localhost/", "datatype": "java.lang.String"}], "Output": [], "Child": null}
+{"Receiver": "WebUI", "Action": "click", "Input": [{"type": "Statement", "code": "this.findTestObject('Object Repository/Page_Moodle/a_Log in')"}], "Output": [], "Child": null}
+{"Receiver": "WebUI", "Action": "setText", "Input": [{"type": "Statement", "code": "this.findTestObject('Object Repository/Page_Moodle Log in to the site/input_Username_username')"}, {"type": "Constant", "value": "tmtriet", "datatype": "java.lang.String"}], "Output": [], "Child": null}
+{"Receiver": "WebUI", "Action": "setEncryptedText", "Input": [{"type": "Statement", "code": "this.findTestObject('Object Repository/Page_Moodle Log in to the site/input_Password_password')"}, {"type": "Constant", "value": "NMz1A57fMJEpXGm/T4cXeQ==", "datatype": "java.lang.String"}], "Output": [], "Child": null}
+{"Receiver": "WebUI", "Action": "click", "Input": [{"type": "Statement", "code": "this.findTestObject('Object Repository/Page_Moodle Log in to the site/button_Log in')"}], "Output": [], "Child": null}
+{"Receiver": "WebUI", "Action": "verifyElementText", "Input": [{"type": "Statement", "code": "this.findTestObject('Page_Dashboard/span_IntroCS')"}, {"type": "Constant", "value": "IntroCS", "datatype": "java.lang.String"}], "Output": [], "Child": null}
+{"Receiver": "WebUI", "Action": "click", "Input": [{"type": "Statement", "code": "this.findTestObject('Object Repository/Page_Dashboard/span_IntroCS')"}], "Output": [], "Child": null}
+{"Receiver": "WebUI", "Action": "click", "Input": [{"type": "Statement", "code": "this.findTestObject('Object Repository/Page_Course Introduction to Computer Science/span_Grades')"}], "Output": [], "Child": null}
+{"Receiver": "WebUI", "Action": "verifyElementText", "Input": [{"type": "Statement", "code": "this.findTestObject('Object Repository/Page_Grades View/h2_Grader report')"}, {"type": "Constant", "value": "Grader report", "datatype": "java.lang.String"}], "Output": [], "Child": null}
+{"Receiver": "WebUI", "Action": "closeBrowser", "Input": [], "Output": [], "Child": null}

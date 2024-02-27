@@ -1,0 +1,14 @@
+{"Receiver": "WebUI", "Action": "openBrowser", "Input": [{"type": "Constant", "value": "", "datatype": "java.lang.String"}], "Output": [], "Child": null}
+{"Receiver": "WebUI", "Action": "navigateToUrl", "Input": [{"type": "Constant", "value": "http://localhost:8080/moodle/", "datatype": "java.lang.String"}], "Output": [], "Child": null}
+{"Receiver": "WebUI", "Action": "click", "Input": [{"type": "Statement", "code": "this.findTestObject('Page_BCS Moodle/a_Log in')"}], "Output": [], "Child": null}
+{"Receiver": "WebUI", "Action": "setText", "Input": [{"type": "Statement", "code": "this.findTestObject('Page_BCS Moodle Log in to the site/input_Username_username')"}, {"type": "Constant", "value": "onix", "datatype": "java.lang.String"}], "Output": [], "Child": null}
+{"Receiver": "WebUI", "Action": "setEncryptedText", "Input": [{"type": "Statement", "code": "this.findTestObject('Page_BCS Moodle Log in to the site/input_Password_password')"}, {"type": "Constant", "value": "uw4zQNl2RedGtkZxJt1B2nZNxIOg3YnT", "datatype": "java.lang.String"}], "Output": [], "Child": null}
+{"Receiver": "WebUI", "Action": "click", "Input": [{"type": "Statement", "code": "this.findTestObject('Page_BCS Moodle Log in to the site/button_Log in')"}], "Output": [], "Child": null}
+{"Receiver": "WebUI", "Action": "click", "Input": [{"type": "Statement", "code": "this.findTestObject('Page_Dashboard/div_Course image')"}], "Output": [], "Child": null}
+{"Receiver": "WebUI", "Action": "click", "Input": [{"type": "Statement", "code": "this.findTestObject('Object Repository/Page_Course Ton t hp/button_Turn editing on')"}], "Output": [], "Child": null}
+{"Receiver": "WebUI", "Action": "click", "Input": [{"type": "Statement", "code": "this.findTestObject('Object Repository/Page_Course Ton t hp/span_Add an activity or resource (1)')"}], "Output": [], "Child": null}
+{"Receiver": "WebUI", "Action": "click", "Input": [{"type": "Statement", "code": "this.findTestObject('Object Repository/Page_Course Ton t hp/img_Recommended_icon icon')"}], "Output": [], "Child": null}
+{"Receiver": "WebUI", "Action": "click", "Input": [{"type": "Statement", "code": "this.findTestObject('Page_Editing Assignment/input_Upon activity completion_submitbutton2')"}], "Output": [], "Child": null}
+{"Receiver": "WebUI", "Action": "click", "Input": [{"type": "Statement", "code": "this.findTestObject('Page_Editing Assignment/div_- You must supply a value here')"}], "Output": [], "Child": null}
+{"Receiver": "WebUI", "Action": "verifyElementText", "Input": [{"type": "Statement", "code": "this.findTestObject('Page_Editing Assignment/div_- You must supply a value here')"}, {"type": "Constant", "value": "- You must supply a value here.", "datatype": "java.lang.String"}], "Output": [], "Child": null}
+{"Receiver": "WebUI", "Action": "closeBrowser", "Input": [], "Output": [], "Child": null}

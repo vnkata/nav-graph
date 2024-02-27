@@ -1,0 +1,74 @@
+{
+    "katalon-demo-cura.herokuapp.com": {
+        "https://katalon-demo-cura.herokuapp.com/profile.php#login": [
+            [
+                {
+                    "tag": "input",
+                    "id": "txt-username",
+                    "name": "username", 
+                    
+                    "provided_data": "John Doe"
+                },
+                {
+                    "tag": "input",
+                    "id": "txt-password",
+                    "name": "password",
+
+                    "provided_data": "ThisIsNotAPassword"
+                }
+            ]
+        ]
+    },
+    "http://localhost:8888/wp/wp-login.php?loggedout=true&wp_lang=en_US": {
+        "user_login": "admin",
+        "user_pass": "Matkhau@123",
+        "rememberme": true,
+        "submit_btn_xpath": "wp-submit"
+    },
+
+    "http://localhost:3000/addressbook/index.php": {
+        "user": "admin",
+        "pass": "secret", 
+        "submit_btn_xpath":  "//*[@id='content']/form/input[3]"
+    },
+    "http://localhost:4000/sign_in": {
+        "user_email":"john@phoenix-trello.com",
+        "user_password": "12345678", 
+        "submit_btn_xpath": "//*[@id='sign_in_form']/button"
+    },
+    "http://localhost:4000/":{
+        "board_name": "xxxxxx",
+        "submit_btn_xpath": "//*[@id='new_board_form']/button"
+    },
+    "http://localhost:3000/ppma_052/index.php?r=entry/index": {
+        "LoginForm_username": "admin",
+        "LoginForm_password": "admin",
+        "submit_btn_xpath": "//*[@id='login-form']/div/div[2]/a"
+    },
+    "http://localhost:3000/ppma_052/index.php?r=user/login": {
+        "LoginForm_username": "admin",
+        "LoginForm_password": "admin",
+        "submit_btn_xpath": "//*[@id='login-form']/div/div[2]/a"
+    },
+    "http://localhost:3000/ppma/index.php?r=entry/index": {
+        "LoginForm_username": "admin",
+        "LoginForm_password": "admin",
+        "submit_btn_xpath": "//*[@id='login-form']/div/div[2]/a"
+    },
+    "http://localhost:3000/ppma/index.php?r=user/login": {
+        "LoginForm_username": "admin",
+        "LoginForm_password": "admin",
+        "submit_btn_xpath": "//*[@id='login-form']/div/div[2]/a"
+    },
+    
+    "http://phpfusion_v91000.loc/": {
+        "user_name": "admin",
+        "user_pass": "12345678",
+        "submit_btn_xpath": "//*[@id='login']"
+    },
+    "http://phpfusion_v91000.loc/index.php": {
+        "user_name": "admin",
+        "user_pass": "12345678",
+        "submit_btn_xpath": "//*[@id='login']"
+    }
+}

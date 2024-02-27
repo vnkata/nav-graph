@@ -1,0 +1,22 @@
+#sidebar-card {
+    width: 40%;
+    flex-shrink: 0;
+    height: 100%;
+    overflow: scroll;
+    padding: 0 0.5rem 0.5rem !important;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+#sidebar-card::-webkit-scrollbar {
+    display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+#sidebar-card {
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+}
+
+.tab-content > div:nth-child(2) > div {
+    text-align: center;
+}

@@ -1,0 +1,677 @@
+Merge conditions for place: action+assertion
+
+Processed 47 tests
+Initializing net starts at 2022-04-09 09:39:33.705517
+Total nodes(places & trans): 548
+Total possible paths: 145613
+Delay test steps found: 5
+Initializing net ends at 2022-04-09 09:39:38.132003
+Initializing net took 0:00:04.426486 to complete
+------------------------------------Iteration 1------------------------------------
+Generating starts at 2022-04-09 09:39:38.142974
+Total generated tests: 54
+No. skipped nodes: 0
+Node coverage on graph (place & trans): 548/548 = 1.0
+
+Generating ends at 2022-04-09 09:39:41.155749
+Generating took 0:00:03.012775 to complete
+Session ID:  _22_Apr_09_Sat_09_39_41
+Test execution starts at 2022-04-09 09:39:41.443846
+Test execution ends at 2022-04-09 10:27:01.062188
+Test execution took 0:47:19.619421 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/elementary-main-17/Katalon_pj/Bonus_SE/Reports\20220409_093958
+Number of failed tests 33
+Number of error tests: 0
+F: Test filtered 2 Test existed 32
+F: Test filtered 27 Test existed 30
+F: Test filtered 21 Test existed 29
+F: Test filtered 25 Test existed 27
+F: Test filtered 15 Test existed 26
+F: Test filtered 2 Test existed 25
+F: Test filtered 5 Test existed 18
+F: Test filtered 13 Test existed 16
+F: Test filtered 7 Test existed 15
+F: Test filtered 12 Test existed 13
+F: Test filtered 4 Test existed 5
+F: Test filtered 2 Test existed 4
+Number of passed test cases: 21
+Number of failed test cases: 33
+Total of passed test cases: 21
+Total of failed test cases: 21
+Node coverage on execution (this iteration): 259/548 = 0.4726277372262774
+Node coverage on execution (all): 259/548 = 0.4726277372262774
+
+------------------------------------Iteration 1------------------------------------
+Generating starts at 2022-04-09 10:32:08.265448
+Total generated tests: 56
+No. skipped nodes: 0
+Node coverage on graph (place & trans): 548/548 = 1.0
+
+Generating ends at 2022-04-09 10:32:10.846542
+Generating took 0:00:02.581094 to complete
+Session ID:  _22_Apr_09_Sat_10_32_10
+Test execution starts at 2022-04-09 10:32:11.181646
+Test execution ends at 2022-04-09 11:22:34.223429
+Test execution took 0:50:23.041783 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/elementary-main-17/Katalon_pj/Bonus_SE/Reports\20220409_103230
+Number of failed tests 39
+Number of error tests: 0
+F: Test filtered 56 Test existed 57
+F: Test filtered 50 Test existed 56
+F: Test filtered 48 Test existed 55
+F: Test filtered 47 Test existed 54
+F: Test filtered 44 Test existed 53
+F: Test filtered 43 Test existed 52
+F: Test filtered 38 Test existed 51
+F: Test filtered 31 Test existed 50
+F: Test filtered 25 Test existed 47
+F: Test filtered 22 Test existed 46
+F: Test filtered 39 Test existed 43
+F: Test filtered 38 Test existed 42
+F: Test filtered 28 Test existed 40
+F: Test filtered 37 Test existed 38
+F: Test filtered 25 Test existed 37
+F: Test filtered 24 Test existed 36
+F: Test filtered 23 Test existed 35
+F: Test filtered 22 Test existed 30
+F: Test filtered 21 Test existed 24
+Number of passed test cases: 17
+Number of failed test cases: 39
+Total of passed test cases: 38
+Total of failed test cases: 41
+Node coverage on execution (this iteration): 229/548 = 0.41788321167883213
+Node coverage on execution (all): 344/548 = 0.6277372262773723
+
+------------------------------------Iteration 2------------------------------------
+Generating starts at 2022-04-09 11:22:34.332777
+Total generated tests: 54
+No. skipped nodes: 5
+Node coverage on graph (place & trans): 543/548 = 0.9908759124087592
+
+Generating ends at 2022-04-09 11:23:29.130952
+Generating took 0:00:54.798175 to complete
+Session ID:  _22_Apr_09_Sat_11_23_29
+Test execution starts at 2022-04-09 11:23:29.412410
+Test execution ends at 2022-04-09 12:14:47.277642
+Test execution took 0:51:17.865232 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/elementary-main-17/Katalon_pj/Bonus_SE/Reports\20220409_112345
+Number of failed tests 34
+Number of error tests: 0
+F: Test filtered 67 Test existed 68
+F: Test filtered 57 Test existed 63
+F: Test filtered 55 Test existed 59
+F: Test filtered 44 Test existed 58
+F: Test filtered 51 Test existed 54
+Number of passed test cases: 20
+Number of failed test cases: 34
+Total of passed test cases: 58
+Total of failed test cases: 70
+Node coverage on execution (this iteration): 255/548 = 0.4653284671532847
+Node coverage on execution (all): 415/548 = 0.7572992700729927
+
+------------------------------------Iteration 3------------------------------------
+Generating starts at 2022-04-09 12:14:47.433853
+Total generated tests: 58
+No. skipped nodes: 18
+Node coverage on graph (place & trans): 530/548 = 0.9671532846715328
+
+Generating ends at 2022-04-09 12:17:48.894286
+Generating took 0:03:01.460433 to complete
+Session ID:  _22_Apr_09_Sat_12_17_48
+Test execution starts at 2022-04-09 12:17:49.245118
+Test execution ends at 2022-04-09 13:12:08.708595
+Test execution took 0:54:19.463477 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/elementary-main-17/Katalon_pj/Bonus_SE/Reports\20220409_121805
+Number of failed tests 23
+Number of error tests: 0
+F: Test filtered 83 Test existed 86
+Number of passed test cases: 35
+Number of failed test cases: 23
+Total of passed test cases: 93
+Total of failed test cases: 92
+Node coverage on execution (this iteration): 410/548 = 0.7481751824817519
+Node coverage on execution (all): 483/548 = 0.8813868613138686
+
+------------------------------------Iteration 4------------------------------------
+Generating starts at 2022-04-09 13:12:08.896009
+Total generated tests: 55
+No. skipped nodes: 21
+Node coverage on graph (place & trans): 527/548 = 0.9616788321167883
+
+Generating ends at 2022-04-09 13:13:05.008423
+Generating took 0:00:56.112414 to complete
+Session ID:  _22_Apr_09_Sat_13_13_05
+Test execution starts at 2022-04-09 13:13:05.305229
+Test execution ends at 2022-04-09 13:58:10.849806
+Test execution took 0:45:05.544577 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/elementary-main-17/Katalon_pj/Bonus_SE/Reports\20220409_131321
+Number of failed tests 16
+Number of error tests: 0
+F: Test filtered 94 Test existed 95
+Number of passed test cases: 39
+Number of failed test cases: 16
+Total of passed test cases: 132
+Total of failed test cases: 107
+Node coverage on execution (this iteration): 393/548 = 0.7171532846715328
+Node coverage on execution (all): 507/548 = 0.9251824817518248
+
+------------------------------------Iteration 1------------------------------------
+Generating starts at 2022-04-09 16:10:35.432379
+Total generated tests: 51
+No. skipped nodes: 21
+Node coverage on graph (place & trans): 527/548 = 0.9616788321167883
+
+Generating ends at 2022-04-09 16:10:48.166144
+Generating took 0:00:12.733765 to complete
+Session ID:  _22_Apr_09_Sat_16_10_48
+Test execution starts at 2022-04-09 16:10:48.474306
+Test execution ends at 2022-04-09 16:55:10.506792
+Test execution took 0:44:22.032486 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/elementary-main-17/Katalon_pj/Bonus_SE/Reports\20220409_161107
+Number of failed tests 16
+Number of error tests: 0
+Number of passed test cases: 35
+Number of failed test cases: 16
+Total of passed test cases: 167
+Total of failed test cases: 123
+Node coverage on execution (this iteration): 399/548 = 0.7281021897810219
+Node coverage on execution (all): 510/548 = 0.9306569343065694
+
+------------------------------------Iteration 2------------------------------------
+Generating starts at 2022-04-09 16:55:10.747134
+Total generated tests: 53
+No. skipped nodes: 21
+Node coverage on graph (place & trans): 527/548 = 0.9616788321167883
+
+Generating ends at 2022-04-09 16:55:25.431204
+Generating took 0:00:14.684070 to complete
+Session ID:  _22_Apr_09_Sat_16_55_25
+Test execution starts at 2022-04-09 16:55:25.743630
+Test execution ends at 2022-04-09 17:45:44.418534
+Test execution took 0:50:18.690525 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/elementary-main-17/Katalon_pj/Bonus_SE/Reports\20220409_165541
+Number of failed tests 17
+Number of error tests: 0
+Number of passed test cases: 36
+Number of failed test cases: 17
+Total of passed test cases: 203
+Total of failed test cases: 140
+Node coverage on execution (this iteration): 397/548 = 0.7244525547445255
+Node coverage on execution (all): 510/548 = 0.9306569343065694
+
+------------------------------------Iteration 3------------------------------------
+Generating starts at 2022-04-09 17:45:44.706611
+Total generated tests: 54
+No. skipped nodes: 21
+Node coverage on graph (place & trans): 527/548 = 0.9616788321167883
+
+Generating ends at 2022-04-09 17:46:05.584776
+Generating took 0:00:20.878165 to complete
+Session ID:  _22_Apr_09_Sat_17_46_05
+Test execution starts at 2022-04-09 17:46:05.915436
+Test execution ends at 2022-04-09 18:29:55.358277
+Test execution took 0:43:49.458460 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/elementary-main-17/Katalon_pj/Bonus_SE/Reports\20220409_174622
+Number of failed tests 12
+Number of error tests: 0
+Number of passed test cases: 42
+Number of failed test cases: 12
+Total of passed test cases: 245
+Total of failed test cases: 152
+Node coverage on execution (this iteration): 449/548 = 0.8193430656934306
+Node coverage on execution (all): 520/548 = 0.948905109489051
+
+------------------------------------Iteration 4------------------------------------
+Generating starts at 2022-04-09 18:29:55.673328
+Total generated tests: 54
+No. skipped nodes: 21
+Node coverage on graph (place & trans): 527/548 = 0.9616788321167883
+
+Generating ends at 2022-04-09 18:30:17.352361
+Generating took 0:00:21.679033 to complete
+Session ID:  _22_Apr_09_Sat_18_30_17
+Test execution starts at 2022-04-09 18:30:17.672055
+Test execution ends at 2022-04-09 19:18:35.442425
+Test execution took 0:48:17.770370 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/elementary-main-17/Katalon_pj/Bonus_SE/Reports\20220409_183034
+Number of failed tests 15
+Number of error tests: 0
+F: Test filtered 161 Test existed 164
+F: Test filtered 152 Test existed 158
+Number of passed test cases: 39
+Number of failed test cases: 15
+Total of passed test cases: 284
+Total of failed test cases: 165
+Node coverage on execution (this iteration): 398/548 = 0.7262773722627737
+Node coverage on execution (all): 521/548 = 0.9507299270072993
+
+------------------------------------Iteration 5------------------------------------
+Generating starts at 2022-04-09 19:18:35.770473
+Total generated tests: 50
+No. skipped nodes: 21
+Node coverage on graph (place & trans): 527/548 = 0.9616788321167883
+
+Generating ends at 2022-04-09 19:19:02.544816
+Generating took 0:00:26.774343 to complete
+Session ID:  _22_Apr_09_Sat_19_19_02
+Test execution starts at 2022-04-09 19:19:02.831527
+Test execution ends at 2022-04-09 20:05:07.541566
+Test execution took 0:46:04.710039 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/elementary-main-17/Katalon_pj/Bonus_SE/Reports\20220409_191921
+Number of failed tests 18
+Number of error tests: 0
+F: Test filtered 168 Test existed 169
+Number of passed test cases: 32
+Number of failed test cases: 18
+Total of passed test cases: 316
+Total of failed test cases: 182
+Node coverage on execution (this iteration): 380/548 = 0.6934306569343066
+Node coverage on execution (all): 521/548 = 0.9507299270072993
+
+------------------------------------Iteration 6------------------------------------
+Generating starts at 2022-04-09 20:05:07.869613
+Total generated tests: 50
+No. skipped nodes: 21
+Node coverage on graph (place & trans): 527/548 = 0.9616788321167883
+
+Generating ends at 2022-04-09 20:05:54.942952
+Generating took 0:00:47.073339 to complete
+Session ID:  _22_Apr_09_Sat_20_05_54
+Test execution starts at 2022-04-09 20:05:55.229097
+Test execution ends at 2022-04-09 20:55:28.821673
+Test execution took 0:49:33.592576 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/elementary-main-17/Katalon_pj/Bonus_SE/Reports\20220409_200611
+Number of failed tests 19
+Number of error tests: 0
+Number of passed test cases: 31
+Number of failed test cases: 19
+Total of passed test cases: 347
+Total of failed test cases: 201
+Node coverage on execution (this iteration): 361/548 = 0.6587591240875912
+Node coverage on execution (all): 521/548 = 0.9507299270072993
+
+------------------------------------Iteration 7------------------------------------
+Generating starts at 2022-04-09 20:55:29.195736
+Total generated tests: 50
+No. skipped nodes: 21
+Node coverage on graph (place & trans): 527/548 = 0.9616788321167883
+
+Generating ends at 2022-04-09 20:55:59.160605
+Generating took 0:00:29.964869 to complete
+Session ID:  _22_Apr_09_Sat_20_55_59
+Test execution starts at 2022-04-09 20:55:59.431381
+Test execution ends at 2022-04-09 21:43:34.821297
+Test execution took 0:47:35.389916 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/elementary-main-17/Katalon_pj/Bonus_SE/Reports\20220409_205617
+Number of failed tests 17
+Number of error tests: 0
+F: Test filtered 210 Test existed 212
+Number of passed test cases: 33
+Number of failed test cases: 17
+Total of passed test cases: 380
+Total of failed test cases: 217
+Node coverage on execution (this iteration): 379/548 = 0.6916058394160584
+Node coverage on execution (all): 521/548 = 0.9507299270072993
+
+------------------------------------Iteration 8------------------------------------
+Generating starts at 2022-04-09 21:43:35.274318
+Total generated tests: 53
+No. skipped nodes: 21
+Node coverage on graph (place & trans): 527/548 = 0.9616788321167883
+
+Generating ends at 2022-04-09 21:44:11.202342
+Generating took 0:00:35.928024 to complete
+Session ID:  _22_Apr_09_Sat_21_44_11
+Test execution starts at 2022-04-09 21:44:11.522054
+Test execution ends at 2022-04-09 22:35:41.303143
+Test execution took 0:51:29.786075 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/elementary-main-17/Katalon_pj/Bonus_SE/Reports\20220409_214436
+Number of failed tests 16
+Number of error tests: 0
+Number of passed test cases: 37
+Number of failed test cases: 16
+Total of passed test cases: 417
+Total of failed test cases: 233
+Node coverage on execution (this iteration): 400/548 = 0.7299270072992701
+Node coverage on execution (all): 521/548 = 0.9507299270072993
+
+------------------------------------Iteration 9------------------------------------
+Generating starts at 2022-04-09 22:35:41.833094
+Total generated tests: 53
+No. skipped nodes: 21
+Node coverage on graph (place & trans): 527/548 = 0.9616788321167883
+
+Generating ends at 2022-04-09 22:36:45.876882
+Generating took 0:01:04.043788 to complete
+Session ID:  _22_Apr_09_Sat_22_36_45
+Test execution starts at 2022-04-09 22:36:46.188399
+Test execution ends at 2022-04-09 23:29:31.584015
+Test execution took 0:52:45.395616 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/elementary-main-17/Katalon_pj/Bonus_SE/Reports\20220409_223709
+Number of failed tests 14
+Number of error tests: 0
+Number of passed test cases: 39
+Number of failed test cases: 14
+Total of passed test cases: 456
+Total of failed test cases: 247
+Node coverage on execution (this iteration): 412/548 = 0.7518248175182481
+Node coverage on execution (all): 521/548 = 0.9507299270072993
+
+------------------------------------Iteration 10------------------------------------
+Generating starts at 2022-04-09 23:29:32.068243
+Total generated tests: 51
+No. skipped nodes: 28
+Node coverage on graph (place & trans): 520/548 = 0.948905109489051
+
+Generating ends at 2022-04-09 23:35:54.062735
+Generating took 0:06:21.994492 to complete
+Session ID:  _22_Apr_09_Sat_23_35_54
+Test execution starts at 2022-04-09 23:35:54.393060
+Test execution ends at 2022-04-10 00:26:17.517779
+Test execution took 0:50:23.124719 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/elementary-main-17/Katalon_pj/Bonus_SE/Reports\20220409_233613
+Number of failed tests 19
+Number of error tests: 0
+F: Test filtered 261 Test existed 263
+Number of passed test cases: 32
+Number of failed test cases: 19
+Total of passed test cases: 488
+Total of failed test cases: 265
+Node coverage on execution (this iteration): 359/548 = 0.6551094890510949
+Node coverage on execution (all): 521/548 = 0.9507299270072993
+
+------------------------------------Iteration 11------------------------------------
+Generating starts at 2022-04-10 00:26:18.059724
+Total generated tests: 51
+No. skipped nodes: 28
+Node coverage on graph (place & trans): 520/548 = 0.948905109489051
+
+Generating ends at 2022-04-10 00:26:51.226048
+Generating took 0:00:33.166324 to complete
+Session ID:  _22_Apr_10_Sun_00_26_51
+Test execution starts at 2022-04-10 00:26:51.534395
+Test execution ends at 2022-04-10 01:18:32.900146
+Test execution took 0:51:41.365751 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/elementary-main-17/Katalon_pj/Bonus_SE/Reports\20220410_002713
+Number of failed tests 17
+Number of error tests: 0
+Number of passed test cases: 34
+Number of failed test cases: 17
+Total of passed test cases: 522
+Total of failed test cases: 282
+Node coverage on execution (this iteration): 375/548 = 0.6843065693430657
+Node coverage on execution (all): 521/548 = 0.9507299270072993
+
+------------------------------------Iteration 12------------------------------------
+Generating starts at 2022-04-10 01:18:33.428889
+Total generated tests: 55
+No. skipped nodes: 28
+Node coverage on graph (place & trans): 520/548 = 0.948905109489051
+
+Generating ends at 2022-04-10 01:20:05.605194
+Generating took 0:01:32.176305 to complete
+Session ID:  _22_Apr_10_Sun_01_20_05
+Test execution starts at 2022-04-10 01:20:05.934575
+Test execution ends at 2022-04-10 02:15:44.252399
+Test execution took 0:55:38.333406 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/elementary-main-17/Katalon_pj/Bonus_SE/Reports\20220410_012024
+Number of failed tests 16
+Number of error tests: 0
+Number of passed test cases: 39
+Number of failed test cases: 16
+Total of passed test cases: 561
+Total of failed test cases: 298
+Node coverage on execution (this iteration): 403/548 = 0.7354014598540146
+Node coverage on execution (all): 521/548 = 0.9507299270072993
+
+------------------------------------Iteration 1------------------------------------
+Generating starts at 2022-04-10 08:21:59.057447
+Total generated tests: 52
+No. skipped nodes: 53
+Node coverage on graph (place & trans): 520/548 = 0.948905109489051
+
+Generating ends at 2022-04-10 08:51:16.098539
+Generating took 0:29:17.041092 to complete
+Session ID:  _22_Apr_10_Sun_08_51_16
+Test execution starts at 2022-04-10 08:51:16.449744
+Test execution ends at 2022-04-10 09:38:40.655711
+Test execution took 0:47:24.205967 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/elementary-main-17/Katalon_pj/Bonus_SE/Reports\20220410_085136
+Number of error tests: 0
+Number of passed test cases: 38
+Number of failed test cases: 14
+Total of passed test cases: 600
+Total of failed test cases: 311
+Node coverage on execution (this iteration): 395/548 = 0.7208029197080292
+Node coverage on execution (all): 521/548 = 0.9507299270072993
+
+------------------------------------Iteration 2------------------------------------
+Generating starts at 2022-04-10 09:38:41.394012
+Total generated tests: 51
+No. skipped nodes: 53
+Node coverage on graph (place & trans): 520/548 = 0.948905109489051
+
+Generating ends at 2022-04-10 09:41:25.478056
+Generating took 0:02:44.084044 to complete
+Session ID:  _22_Apr_10_Sun_09_41_25
+Test execution starts at 2022-04-10 09:41:25.802601
+Test execution ends at 2022-04-10 10:26:52.073066
+Test execution took 0:45:26.270465 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/elementary-main-17/Katalon_pj/Bonus_SE/Reports\20220410_094148
+Number of error tests: 0
+Number of passed test cases: 40
+Number of failed test cases: 11
+Total of passed test cases: 640
+Total of failed test cases: 322
+Node coverage on execution (this iteration): 413/548 = 0.7536496350364964
+Node coverage on execution (all): 521/548 = 0.9507299270072993
+
+------------------------------------Iteration 3------------------------------------
+Generating starts at 2022-04-10 10:26:52.700331
+Total generated tests: 53
+No. skipped nodes: 53
+Node coverage on graph (place & trans): 519/548 = 0.9470802919708029
+
+Generating ends at 2022-04-10 10:28:15.876575
+Generating took 0:01:23.176244 to complete
+Session ID:  _22_Apr_10_Sun_10_28_15
+Test execution starts at 2022-04-10 10:28:16.174788
+Test execution ends at 2022-04-10 11:16:38.513410
+Test execution took 0:48:22.338622 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/elementary-main-17/Katalon_pj/Bonus_SE/Reports\20220410_102835
+Number of error tests: 0
+Number of passed test cases: 40
+Number of failed test cases: 13
+Total of passed test cases: 680
+Total of failed test cases: 335
+Node coverage on execution (this iteration): 400/548 = 0.7299270072992701
+Node coverage on execution (all): 521/548 = 0.9507299270072993
+
+------------------------------------Iteration 4------------------------------------
+Generating starts at 2022-04-10 11:16:39.168808
+Total generated tests: 53
+No. skipped nodes: 53
+Node coverage on graph (place & trans): 520/548 = 0.948905109489051
+
+Generating ends at 2022-04-10 11:18:39.295193
+Generating took 0:02:00.126385 to complete
+Session ID:  _22_Apr_10_Sun_11_18_39
+Test execution starts at 2022-04-10 11:18:39.606695
+Test execution ends at 2022-04-10 12:07:14.300880
+Test execution took 0:48:34.694185 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/elementary-main-17/Katalon_pj/Bonus_SE/Reports\20220410_111857
+Number of error tests: 0
+Number of passed test cases: 42
+Number of failed test cases: 11
+Total of passed test cases: 722
+Total of failed test cases: 346
+Node coverage on execution (this iteration): 448/548 = 0.8175182481751825
+Node coverage on execution (all): 521/548 = 0.9507299270072993
+
+------------------------------------Iteration 5------------------------------------
+Generating starts at 2022-04-10 12:07:14.957564
+Total generated tests: 53
+No. skipped nodes: 53
+Node coverage on graph (place & trans): 520/548 = 0.948905109489051
+
+Generating ends at 2022-04-10 12:08:20.085462
+Generating took 0:01:05.127898 to complete
+Session ID:  _22_Apr_10_Sun_12_08_20
+Test execution starts at 2022-04-10 12:08:20.388218
+Test execution ends at 2022-04-10 12:56:24.675640
+Test execution took 0:48:04.287422 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/elementary-main-17/Katalon_pj/Bonus_SE/Reports\20220410_120837
+Number of error tests: 0
+Number of passed test cases: 40
+Number of failed test cases: 13
+Total of passed test cases: 762
+Total of failed test cases: 359
+Node coverage on execution (this iteration): 430/548 = 0.7846715328467153
+Node coverage on execution (all): 521/548 = 0.9507299270072993
+
+------------------------------------Iteration 1------------------------------------
+Generating starts at 2022-04-12 20:50:36.027755
+Total generated tests: 51
+No. skipped nodes: 53
+Node coverage on graph (place & trans): 520/548 = 0.948905109489051
+
+Generating ends at 2022-04-12 20:52:28.281880
+Generating took 0:01:52.254125 to complete
+Session ID:  _22_Apr_12_Tue_20_52_28
+Test execution starts at 2022-04-12 20:52:28.568658
+Test execution ends at 2022-04-12 21:39:38.852418
+Test execution took 0:47:10.283760 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/elementary-main-17/Katalon_pj/Bonus_SE/Reports\20220412_205251
+Number of error tests: 0
+Number of passed test cases: 40
+Number of failed test cases: 11
+Total of passed test cases: 802
+Total of failed test cases: 370
+Node coverage on execution (this iteration): 407/548 = 0.7427007299270073
+Node coverage on execution (all): 521/548 = 0.9507299270072993
+
+------------------------------------Iteration 2------------------------------------
+Generating starts at 2022-04-12 21:39:39.683736
+Total generated tests: 52
+No. skipped nodes: 53
+Node coverage on graph (place & trans): 520/548 = 0.948905109489051
+
+Generating ends at 2022-04-12 21:42:40.758905
+Generating took 0:03:01.075169 to complete
+Session ID:  _22_Apr_12_Tue_21_42_40
+Test execution starts at 2022-04-12 21:42:41.045726
+Test execution ends at 2022-04-12 22:29:33.888812
+Test execution took 0:46:52.843086 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/elementary-main-17/Katalon_pj/Bonus_SE/Reports\20220412_214301
+Number of error tests: 0
+Number of passed test cases: 37
+Number of failed test cases: 15
+Total of passed test cases: 839
+Total of failed test cases: 385
+Node coverage on execution (this iteration): 386/548 = 0.7043795620437956
+Node coverage on execution (all): 521/548 = 0.9507299270072993
+
+------------------------------------Iteration 3------------------------------------
+Generating starts at 2022-04-12 22:29:34.626337
+Total generated tests: 52
+No. skipped nodes: 53
+Node coverage on graph (place & trans): 519/548 = 0.9470802919708029
+
+Generating ends at 2022-04-12 22:32:22.175152
+Generating took 0:02:47.548815 to complete
+Session ID:  _22_Apr_12_Tue_22_32_22
+Test execution starts at 2022-04-12 22:32:22.535933
+Test execution ends at 2022-04-12 23:17:42.327545
+Test execution took 0:45:19.791612 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/elementary-main-17/Katalon_pj/Bonus_SE/Reports\20220412_223240
+Number of error tests: 0
+Number of passed test cases: 42
+Number of failed test cases: 10
+Total of passed test cases: 881
+Total of failed test cases: 395
+Node coverage on execution (this iteration): 439/548 = 0.801094890510949
+Node coverage on execution (all): 521/548 = 0.9507299270072993
+
+------------------------------------Iteration 4------------------------------------
+Generating starts at 2022-04-12 23:17:43.092990
+Total generated tests: 53
+No. skipped nodes: 53
+Node coverage on graph (place & trans): 520/548 = 0.948905109489051
+
+Generating ends at 2022-04-12 23:20:25.875933
+Generating took 0:02:42.782943 to complete
+Session ID:  _22_Apr_12_Tue_23_20_25
+Test execution starts at 2022-04-12 23:20:26.209126
+Test execution ends at 2022-04-13 00:02:59.247996
+Test execution took 0:42:33.038870 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/elementary-main-17/Katalon_pj/Bonus_SE/Reports\20220412_232043
+Number of error tests: 0
+Number of passed test cases: 42
+Number of failed test cases: 11
+Total of passed test cases: 923
+Total of failed test cases: 406
+Node coverage on execution (this iteration): 421/548 = 0.7682481751824818
+Node coverage on execution (all): 521/548 = 0.9507299270072993
+
+------------------------------------Iteration 5------------------------------------
+Generating starts at 2022-04-13 00:03:00.029026
+Total generated tests: 52
+No. skipped nodes: 54
+Node coverage on graph (place & trans): 519/548 = 0.9470802919708029
+
+Generating ends at 2022-04-13 00:06:35.987872
+Generating took 0:03:35.958846 to complete
+Session ID:  _22_Apr_13_Wed_00_06_35
+Test execution starts at 2022-04-13 00:06:36.274305
+Test execution ends at 2022-04-13 00:52:09.155471
+Test execution took 0:45:32.881166 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/elementary-main-17/Katalon_pj/Bonus_SE/Reports\20220413_000653
+Number of error tests: 0
+Number of passed test cases: 40
+Number of failed test cases: 12
+Total of passed test cases: 963
+Total of failed test cases: 418
+Node coverage on execution (this iteration): 418/548 = 0.7627737226277372
+Node coverage on execution (all): 521/548 = 0.9507299270072993
+
+------------------------------------Iteration 6------------------------------------
+Generating starts at 2022-04-13 00:52:10.420798
+Total generated tests: 51
+No. skipped nodes: 54
+Node coverage on graph (place & trans): 519/548 = 0.9470802919708029
+
+Generating ends at 2022-04-13 00:55:17.518282
+Generating took 0:03:07.097484 to complete
+Session ID:  _22_Apr_13_Wed_00_55_17
+Test execution starts at 2022-04-13 00:55:17.924437
+Test execution ends at 2022-04-13 01:42:49.951520
+Test execution took 0:47:32.027083 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/elementary-main-17/Katalon_pj/Bonus_SE/Reports\20220413_005547
+Number of error tests: 0
+Number of passed test cases: 38
+Number of failed test cases: 13
+Total of passed test cases: 1001
+Total of failed test cases: 431
+Node coverage on execution (this iteration): 422/548 = 0.7700729927007299
+Node coverage on execution (all): 521/548 = 0.9507299270072993
+
+------------------------------------Iteration 7------------------------------------
+Generating starts at 2022-04-13 01:42:50.841890
+Total generated tests: 50
+No. skipped nodes: 54
+Node coverage on graph (place & trans): 519/548 = 0.9470802919708029
+
+Generating ends at 2022-04-13 01:45:41.422482
+Generating took 0:02:50.580592 to complete
+Session ID:  _22_Apr_13_Wed_01_45_41
+Test execution starts at 2022-04-13 01:45:41.734908
+Test execution ends at 2022-04-13 02:29:45.920929
+Test execution took 0:44:04.186021 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/elementary-main-17/Katalon_pj/Bonus_SE/Reports\20220413_014559
+Number of error tests: 0
+Number of passed test cases: 36
+Number of failed test cases: 14
+Total of passed test cases: 1037
+Total of failed test cases: 445
+Node coverage on execution (this iteration): 410/548 = 0.7481751824817519
+Node coverage on execution (all): 521/548 = 0.9507299270072993

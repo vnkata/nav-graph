@@ -1,0 +1,603 @@
+Merge conditions for place: action+assertion
+
+Processed 38 tests
+Initializing net starts at 2022-04-14 17:43:03.236173
+Total nodes(places & trans): 616
+Total possible paths: 88826
+Delay test steps found: 0
+Initializing net ends at 2022-04-14 17:43:08.591670
+Initializing net took 0:00:05.355497 to complete
+------------------------------------Iteration 1------------------------------------
+Generating starts at 2022-04-14 17:43:08.598652
+Total generated tests: 39
+No. skipped nodes: 20
+Node coverage on graph (place & trans): 596/616 = 0.9675324675324676
+
+Generating ends at 2022-04-14 17:44:14.914465
+Generating took 0:01:06.315813 to complete
+Session ID:  _22_Apr_14_Thu_17_44_14
+Test execution starts at 2022-04-14 17:44:15.180027
+Test execution ends at 2022-04-14 18:16:35.414612
+Test execution took 0:32:20.234585 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-7/Katalon-Moodle-7/Reports\20220414_174431
+Number of error tests: 0
+Number of passed test cases: 21
+Number of failed test cases: 18
+Total of passed test cases: 21
+Total of failed test cases: 18
+Node coverage on execution (this iteration): 364/616 = 0.5909090909090909
+Node coverage on execution (all): 364/616 = 0.5909090909090909
+
+------------------------------------Iteration 2------------------------------------
+Generating starts at 2022-04-14 18:16:35.508341
+Total generated tests: 41
+No. skipped nodes: 20
+Node coverage on graph (place & trans): 596/616 = 0.9675324675324676
+
+Generating ends at 2022-04-14 18:16:49.833898
+Generating took 0:00:14.325557 to complete
+Session ID:  _22_Apr_14_Thu_18_16_49
+Test execution starts at 2022-04-14 18:16:50.068436
+Test execution ends at 2022-04-14 18:48:08.535148
+Test execution took 0:31:18.466712 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-7/Katalon-Moodle-7/Reports\20220414_181706
+Number of error tests: 0
+Number of passed test cases: 25
+Number of failed test cases: 16
+Total of passed test cases: 46
+Total of failed test cases: 34
+Node coverage on execution (this iteration): 483/616 = 0.7840909090909091
+Node coverage on execution (all): 552/616 = 0.8961038961038961
+
+------------------------------------Iteration 3------------------------------------
+Generating starts at 2022-04-14 18:48:08.663557
+Total generated tests: 40
+No. skipped nodes: 20
+Node coverage on graph (place & trans): 596/616 = 0.9675324675324676
+
+Generating ends at 2022-04-14 18:48:23.594398
+Generating took 0:00:14.930841 to complete
+Session ID:  _22_Apr_14_Thu_18_48_23
+Test execution starts at 2022-04-14 18:48:23.823642
+Test execution ends at 2022-04-14 19:20:42.503055
+Test execution took 0:32:18.679413 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-7/Katalon-Moodle-7/Reports\20220414_184840
+Number of error tests: 0
+Number of passed test cases: 22
+Number of failed test cases: 18
+Total of passed test cases: 68
+Total of failed test cases: 52
+Node coverage on execution (this iteration): 429/616 = 0.6964285714285714
+Node coverage on execution (all): 562/616 = 0.9123376623376623
+
+------------------------------------Iteration 4------------------------------------
+Generating starts at 2022-04-14 19:20:42.633537
+Total generated tests: 39
+No. skipped nodes: 20
+Node coverage on graph (place & trans): 596/616 = 0.9675324675324676
+
+Generating ends at 2022-04-14 19:21:07.852564
+Generating took 0:00:25.219027 to complete
+Session ID:  _22_Apr_14_Thu_19_21_07
+Test execution starts at 2022-04-14 19:21:08.100363
+Test execution ends at 2022-04-14 19:52:42.120142
+Test execution took 0:31:34.019779 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-7/Katalon-Moodle-7/Reports\20220414_192124
+Number of error tests: 0
+Number of passed test cases: 24
+Number of failed test cases: 15
+Total of passed test cases: 92
+Total of failed test cases: 67
+Node coverage on execution (this iteration): 442/616 = 0.7175324675324676
+Node coverage on execution (all): 578/616 = 0.9383116883116883
+
+------------------------------------Iteration 5------------------------------------
+Generating starts at 2022-04-14 19:52:42.250625
+Total generated tests: 38
+No. skipped nodes: 34
+Node coverage on graph (place & trans): 582/616 = 0.9448051948051948
+
+Generating ends at 2022-04-14 20:02:34.842465
+Generating took 0:09:52.591840 to complete
+Session ID:  _22_Apr_14_Thu_20_02_34
+Test execution starts at 2022-04-14 20:02:35.097784
+Test execution ends at 2022-04-14 20:52:48.992427
+Test execution took 0:50:13.894643 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-7/Katalon-Moodle-7/Reports\20220414_200258
+Number of error tests: 0
+F: Test filtered 76 Test existed 83
+Number of passed test cases: 15
+Number of failed test cases: 23
+Total of passed test cases: 107
+Total of failed test cases: 89
+Node coverage on execution (this iteration): 334/616 = 0.5422077922077922
+Node coverage on execution (all): 578/616 = 0.9383116883116883
+
+------------------------------------Iteration 6------------------------------------
+Generating starts at 2022-04-14 20:52:49.206854
+Total generated tests: 37
+No. skipped nodes: 53
+Node coverage on graph (place & trans): 563/616 = 0.913961038961039
+
+Generating ends at 2022-04-14 21:09:42.832096
+Generating took 0:16:53.625242 to complete
+Session ID:  _22_Apr_14_Thu_21_09_42
+Test execution starts at 2022-04-14 21:09:43.066469
+Test execution ends at 2022-04-14 21:48:23.986904
+Test execution took 0:38:40.921433 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-7/Katalon-Moodle-7/Reports\20220414_211003
+Number of error tests: 0
+F: Test filtered 103 Test existed 107
+Number of passed test cases: 17
+Number of failed test cases: 20
+Total of passed test cases: 124
+Total of failed test cases: 108
+Node coverage on execution (this iteration): 360/616 = 0.5844155844155844
+Node coverage on execution (all): 582/616 = 0.9448051948051948
+
+------------------------------------Iteration 7------------------------------------
+Generating starts at 2022-04-14 21:48:24.246264
+Total generated tests: 36
+No. skipped nodes: 53
+Node coverage on graph (place & trans): 563/616 = 0.913961038961039
+
+Generating ends at 2022-04-14 21:48:32.894331
+Generating took 0:00:08.648067 to complete
+Session ID:  _22_Apr_14_Thu_21_48_32
+Test execution starts at 2022-04-14 21:48:33.224446
+Test execution ends at 2022-04-14 22:25:35.433996
+Test execution took 0:37:02.210512 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-7/Katalon-Moodle-7/Reports\20220414_214855
+Number of error tests: 0
+Number of passed test cases: 14
+Number of failed test cases: 22
+Total of passed test cases: 138
+Total of failed test cases: 130
+Node coverage on execution (this iteration): 322/616 = 0.5227272727272727
+Node coverage on execution (all): 582/616 = 0.9448051948051948
+
+------------------------------------Iteration 8------------------------------------
+Generating starts at 2022-04-14 22:25:35.670329
+Total generated tests: 36
+No. skipped nodes: 53
+Node coverage on graph (place & trans): 563/616 = 0.913961038961039
+
+Generating ends at 2022-04-14 22:25:39.964568
+Generating took 0:00:04.294239 to complete
+Session ID:  _22_Apr_14_Thu_22_25_39
+Test execution starts at 2022-04-14 22:25:40.177996
+Test execution ends at 2022-04-14 23:02:20.054265
+Test execution took 0:36:39.876269 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-7/Katalon-Moodle-7/Reports\20220414_222559
+Number of error tests: 0
+F: Test filtered 143 Test existed 144
+Number of passed test cases: 19
+Number of failed test cases: 17
+Total of passed test cases: 157
+Total of failed test cases: 146
+Node coverage on execution (this iteration): 379/616 = 0.6152597402597403
+Node coverage on execution (all): 582/616 = 0.9448051948051948
+
+------------------------------------Iteration 9------------------------------------
+Generating starts at 2022-04-14 23:02:20.272964
+Total generated tests: 36
+No. skipped nodes: 53
+Node coverage on graph (place & trans): 563/616 = 0.913961038961039
+
+Generating ends at 2022-04-14 23:02:30.069341
+Generating took 0:00:09.796377 to complete
+Session ID:  _22_Apr_14_Thu_23_02_30
+Test execution starts at 2022-04-14 23:02:30.288039
+Test execution ends at 2022-04-14 23:30:52.607485
+Test execution took 0:28:22.319446 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-7/Katalon-Moodle-7/Reports\20220414_230249
+Number of error tests: 0
+Number of passed test cases: 22
+Number of failed test cases: 14
+Total of passed test cases: 179
+Total of failed test cases: 160
+Node coverage on execution (this iteration): 391/616 = 0.6347402597402597
+Node coverage on execution (all): 591/616 = 0.9594155844155844
+
+------------------------------------Iteration 10------------------------------------
+Generating starts at 2022-04-14 23:30:52.919879
+Total generated tests: 37
+No. skipped nodes: 53
+Node coverage on graph (place & trans): 563/616 = 0.913961038961039
+
+Generating ends at 2022-04-14 23:31:02.376258
+Generating took 0:00:09.456379 to complete
+Session ID:  _22_Apr_14_Thu_23_31_02
+Test execution starts at 2022-04-14 23:31:02.579334
+Test execution ends at 2022-04-14 23:59:45.725065
+Test execution took 0:28:43.145731 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-7/Katalon-Moodle-7/Reports\20220414_233126
+Number of error tests: 0
+Number of passed test cases: 23
+Number of failed test cases: 14
+Total of passed test cases: 202
+Total of failed test cases: 174
+Node coverage on execution (this iteration): 482/616 = 0.7824675324675324
+Node coverage on execution (all): 591/616 = 0.9594155844155844
+
+------------------------------------Iteration 11------------------------------------
+Generating starts at 2022-04-14 23:59:46.006631
+Total generated tests: 35
+No. skipped nodes: 53
+Node coverage on graph (place & trans): 563/616 = 0.913961038961039
+
+Generating ends at 2022-04-14 23:59:58.091368
+Generating took 0:00:12.084737 to complete
+Session ID:  _22_Apr_14_Thu_23_59_58
+Test execution starts at 2022-04-14 23:59:58.311259
+Test execution ends at 2022-04-15 00:28:20.122143
+Test execution took 0:28:21.810884 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-7/Katalon-Moodle-7/Reports\20220415_000017
+Number of error tests: 0
+Number of passed test cases: 21
+Number of failed test cases: 14
+Total of passed test cases: 223
+Total of failed test cases: 188
+Node coverage on execution (this iteration): 420/616 = 0.6818181818181818
+Node coverage on execution (all): 591/616 = 0.9594155844155844
+
+------------------------------------Iteration 12------------------------------------
+Generating starts at 2022-04-15 00:28:20.422637
+Total generated tests: 38
+No. skipped nodes: 53
+Node coverage on graph (place & trans): 563/616 = 0.913961038961039
+
+Generating ends at 2022-04-15 00:28:40.470885
+Generating took 0:00:20.048248 to complete
+Session ID:  _22_Apr_15_Fri_00_28_40
+Test execution starts at 2022-04-15 00:28:40.706005
+Test execution ends at 2022-04-15 01:04:17.114916
+Test execution took 0:35:36.408911 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-7/Katalon-Moodle-7/Reports\20220415_002859
+Number of error tests: 0
+Number of passed test cases: 20
+Number of failed test cases: 18
+Total of passed test cases: 243
+Total of failed test cases: 206
+Node coverage on execution (this iteration): 403/616 = 0.6542207792207793
+Node coverage on execution (all): 591/616 = 0.9594155844155844
+
+------------------------------------Iteration 13------------------------------------
+Generating starts at 2022-04-15 01:04:17.482408
+Total generated tests: 38
+No. skipped nodes: 53
+Node coverage on graph (place & trans): 563/616 = 0.913961038961039
+
+Generating ends at 2022-04-15 01:04:26.511613
+Generating took 0:00:09.029205 to complete
+Session ID:  _22_Apr_15_Fri_01_04_26
+Test execution starts at 2022-04-15 01:04:26.731227
+Test execution ends at 2022-04-15 01:36:01.605876
+Test execution took 0:31:34.874649 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-7/Katalon-Moodle-7/Reports\20220415_010444
+Number of error tests: 0
+Number of passed test cases: 21
+Number of failed test cases: 17
+Total of passed test cases: 264
+Total of failed test cases: 223
+Node coverage on execution (this iteration): 411/616 = 0.6672077922077922
+Node coverage on execution (all): 591/616 = 0.9594155844155844
+
+------------------------------------Iteration 14------------------------------------
+Generating starts at 2022-04-15 01:36:01.981890
+Total generated tests: 38
+No. skipped nodes: 53
+Node coverage on graph (place & trans): 563/616 = 0.913961038961039
+
+Generating ends at 2022-04-15 01:36:22.885306
+Generating took 0:00:20.903416 to complete
+Session ID:  _22_Apr_15_Fri_01_36_22
+Test execution starts at 2022-04-15 01:36:23.136047
+Test execution ends at 2022-04-15 02:04:28.739954
+Test execution took 0:28:05.603907 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-7/Katalon-Moodle-7/Reports\20220415_013641
+Number of error tests: 0
+Number of passed test cases: 26
+Number of failed test cases: 12
+Total of passed test cases: 290
+Total of failed test cases: 235
+Node coverage on execution (this iteration): 472/616 = 0.7662337662337663
+Node coverage on execution (all): 591/616 = 0.9594155844155844
+
+------------------------------------Iteration 15------------------------------------
+Generating starts at 2022-04-15 02:04:29.106527
+Total generated tests: 36
+No. skipped nodes: 53
+Node coverage on graph (place & trans): 563/616 = 0.913961038961039
+
+Generating ends at 2022-04-15 02:04:50.880624
+Generating took 0:00:21.774097 to complete
+Session ID:  _22_Apr_15_Fri_02_04_50
+Test execution starts at 2022-04-15 02:04:51.084604
+Test execution ends at 2022-04-15 02:35:40.349237
+Test execution took 0:30:49.264633 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-7/Katalon-Moodle-7/Reports\20220415_020508
+Number of error tests: 0
+Number of passed test cases: 23
+Number of failed test cases: 13
+Total of passed test cases: 313
+Total of failed test cases: 248
+Node coverage on execution (this iteration): 426/616 = 0.6915584415584416
+Node coverage on execution (all): 591/616 = 0.9594155844155844
+
+------------------------------------Iteration 16------------------------------------
+Generating starts at 2022-04-15 02:35:40.821622
+Total generated tests: 37
+No. skipped nodes: 53
+Node coverage on graph (place & trans): 563/616 = 0.913961038961039
+
+Generating ends at 2022-04-15 02:36:04.159862
+Generating took 0:00:23.338240 to complete
+Session ID:  _22_Apr_15_Fri_02_36_04
+Test execution starts at 2022-04-15 02:36:04.379429
+Test execution ends at 2022-04-15 03:07:09.687583
+Test execution took 0:31:05.308154 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-7/Katalon-Moodle-7/Reports\20220415_023621
+Number of error tests: 0
+Number of passed test cases: 21
+Number of failed test cases: 16
+Total of passed test cases: 334
+Total of failed test cases: 264
+Node coverage on execution (this iteration): 408/616 = 0.6623376623376623
+Node coverage on execution (all): 591/616 = 0.9594155844155844
+
+------------------------------------Iteration 17------------------------------------
+Generating starts at 2022-04-15 03:07:10.110481
+Total generated tests: 37
+No. skipped nodes: 53
+Node coverage on graph (place & trans): 563/616 = 0.913961038961039
+
+Generating ends at 2022-04-15 03:07:32.261196
+Generating took 0:00:22.150715 to complete
+Session ID:  _22_Apr_15_Fri_03_07_32
+Test execution starts at 2022-04-15 03:07:32.496383
+Test execution ends at 2022-04-15 03:36:09.996913
+Test execution took 0:28:37.500530 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-7/Katalon-Moodle-7/Reports\20220415_030750
+Number of error tests: 0
+Number of passed test cases: 20
+Number of failed test cases: 17
+Total of passed test cases: 354
+Total of failed test cases: 281
+Node coverage on execution (this iteration): 421/616 = 0.6834415584415584
+Node coverage on execution (all): 591/616 = 0.9594155844155844
+
+------------------------------------Iteration 18------------------------------------
+Generating starts at 2022-04-15 03:36:10.435907
+Total generated tests: 35
+No. skipped nodes: 53
+Node coverage on graph (place & trans): 563/616 = 0.913961038961039
+
+Generating ends at 2022-04-15 03:36:41.338967
+Generating took 0:00:30.903060 to complete
+Session ID:  _22_Apr_15_Fri_03_36_41
+Test execution starts at 2022-04-15 03:36:41.634981
+Test execution ends at 2022-04-15 04:02:33.265016
+Test execution took 0:25:51.630035 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-7/Katalon-Moodle-7/Reports\20220415_033700
+Number of error tests: 0
+Number of passed test cases: 26
+Number of failed test cases: 9
+Total of passed test cases: 380
+Total of failed test cases: 290
+Node coverage on execution (this iteration): 476/616 = 0.7727272727272727
+Node coverage on execution (all): 591/616 = 0.9594155844155844
+
+------------------------------------Iteration 19------------------------------------
+Generating starts at 2022-04-15 04:02:33.730895
+Total generated tests: 36
+No. skipped nodes: 53
+Node coverage on graph (place & trans): 563/616 = 0.913961038961039
+
+Generating ends at 2022-04-15 04:03:10.057540
+Generating took 0:00:36.326645 to complete
+Session ID:  _22_Apr_15_Fri_04_03_10
+Test execution starts at 2022-04-15 04:03:10.301663
+Test execution ends at 2022-04-15 04:37:45.482455
+Test execution took 0:34:35.180792 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-7/Katalon-Moodle-7/Reports\20220415_040328
+Number of error tests: 0
+Number of passed test cases: 19
+Number of failed test cases: 17
+Total of passed test cases: 399
+Total of failed test cases: 307
+Node coverage on execution (this iteration): 392/616 = 0.6363636363636364
+Node coverage on execution (all): 591/616 = 0.9594155844155844
+
+------------------------------------Iteration 20------------------------------------
+Generating starts at 2022-04-15 04:37:46.005513
+Total generated tests: 35
+No. skipped nodes: 53
+Node coverage on graph (place & trans): 563/616 = 0.913961038961039
+
+Generating ends at 2022-04-15 04:38:33.156846
+Generating took 0:00:47.151333 to complete
+Session ID:  _22_Apr_15_Fri_04_38_33
+Test execution starts at 2022-04-15 04:38:33.376356
+Test execution ends at 2022-04-15 05:07:08.685409
+Test execution took 0:28:35.309053 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-7/Katalon-Moodle-7/Reports\20220415_043851
+Number of error tests: 0
+Number of passed test cases: 23
+Number of failed test cases: 12
+Total of passed test cases: 422
+Total of failed test cases: 319
+Node coverage on execution (this iteration): 427/616 = 0.6931818181818182
+Node coverage on execution (all): 591/616 = 0.9594155844155844
+
+------------------------------------Iteration 21------------------------------------
+Generating starts at 2022-04-15 05:07:09.187411
+Total generated tests: 40
+No. skipped nodes: 53
+Node coverage on graph (place & trans): 563/616 = 0.913961038961039
+
+Generating ends at 2022-04-15 05:07:36.080031
+Generating took 0:00:26.892620 to complete
+Session ID:  _22_Apr_15_Fri_05_07_36
+Test execution starts at 2022-04-15 05:07:36.341395
+Test execution ends at 2022-04-15 05:41:12.681915
+Test execution took 0:33:36.340520 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-7/Katalon-Moodle-7/Reports\20220415_050754
+Number of error tests: 0
+Number of passed test cases: 22
+Number of failed test cases: 18
+Total of passed test cases: 444
+Total of failed test cases: 337
+Node coverage on execution (this iteration): 419/616 = 0.6801948051948052
+Node coverage on execution (all): 591/616 = 0.9594155844155844
+
+------------------------------------Iteration 22------------------------------------
+Generating starts at 2022-04-15 05:41:13.232903
+Total generated tests: 37
+No. skipped nodes: 53
+Node coverage on graph (place & trans): 563/616 = 0.913961038961039
+
+Generating ends at 2022-04-15 05:42:03.864163
+Generating took 0:00:50.631260 to complete
+Session ID:  _22_Apr_15_Fri_05_42_03
+Test execution starts at 2022-04-15 05:42:04.165296
+Test execution ends at 2022-04-15 06:15:11.328060
+Test execution took 0:33:07.162764 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-7/Katalon-Moodle-7/Reports\20220415_054223
+Number of error tests: 0
+Number of passed test cases: 23
+Number of failed test cases: 14
+Total of passed test cases: 467
+Total of failed test cases: 351
+Node coverage on execution (this iteration): 445/616 = 0.7224025974025974
+Node coverage on execution (all): 591/616 = 0.9594155844155844
+
+------------------------------------Iteration 23------------------------------------
+Generating starts at 2022-04-15 06:15:11.879817
+Total generated tests: 38
+No. skipped nodes: 53
+Node coverage on graph (place & trans): 563/616 = 0.913961038961039
+
+Generating ends at 2022-04-15 06:15:40.129344
+Generating took 0:00:28.249527 to complete
+Session ID:  _22_Apr_15_Fri_06_15_40
+Test execution starts at 2022-04-15 06:15:40.380167
+Test execution ends at 2022-04-15 06:52:45.941191
+Test execution took 0:37:05.561024 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-7/Katalon-Moodle-7/Reports\20220415_061559
+Number of error tests: 0
+Number of passed test cases: 22
+Number of failed test cases: 16
+Total of passed test cases: 489
+Total of failed test cases: 367
+Node coverage on execution (this iteration): 417/616 = 0.676948051948052
+Node coverage on execution (all): 591/616 = 0.9594155844155844
+
+------------------------------------Iteration 24------------------------------------
+Generating starts at 2022-04-15 06:52:46.556893
+Total generated tests: 37
+No. skipped nodes: 53
+Node coverage on graph (place & trans): 563/616 = 0.913961038961039
+
+Generating ends at 2022-04-15 06:53:15.699585
+Generating took 0:00:29.142692 to complete
+Session ID:  _22_Apr_15_Fri_06_53_15
+Test execution starts at 2022-04-15 06:53:15.950495
+Test execution ends at 2022-04-15 07:30:52.158109
+Test execution took 0:37:36.207614 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-7/Katalon-Moodle-7/Reports\20220415_065333
+Number of error tests: 0
+Number of passed test cases: 18
+Number of failed test cases: 19
+Total of passed test cases: 507
+Total of failed test cases: 386
+Node coverage on execution (this iteration): 366/616 = 0.5941558441558441
+Node coverage on execution (all): 591/616 = 0.9594155844155844
+
+------------------------------------Iteration 25------------------------------------
+Generating starts at 2022-04-15 07:30:52.785343
+Total generated tests: 38
+No. skipped nodes: 53
+Node coverage on graph (place & trans): 563/616 = 0.913961038961039
+
+Generating ends at 2022-04-15 07:36:09.696005
+Generating took 0:05:16.910662 to complete
+Session ID:  _22_Apr_15_Fri_07_36_09
+Test execution starts at 2022-04-15 07:36:09.976981
+Test execution ends at 2022-04-15 08:06:34.671133
+Test execution took 0:30:24.694152 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-7/Katalon-Moodle-7/Reports\20220415_073629
+Number of error tests: 0
+F: Test filtered 389 Test existed 393
+F: Test filtered 387 Test existed 392
+Number of passed test cases: 26
+Number of failed test cases: 12
+Total of passed test cases: 533
+Total of failed test cases: 396
+Node coverage on execution (this iteration): 450/616 = 0.7305194805194806
+Node coverage on execution (all): 591/616 = 0.9594155844155844
+
+------------------------------------Iteration 26------------------------------------
+Generating starts at 2022-04-15 08:06:35.421522
+Total generated tests: 38
+No. skipped nodes: 53
+Node coverage on graph (place & trans): 563/616 = 0.913961038961039
+
+Generating ends at 2022-04-15 08:08:07.477513
+Generating took 0:01:32.056987 to complete
+Session ID:  _22_Apr_15_Fri_08_08_07
+Test execution starts at 2022-04-15 08:08:07.976915
+Test execution ends at 2022-04-15 08:45:53.740398
+Test execution took 0:37:45.764482 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-7/Katalon-Moodle-7/Reports\20220415_080832
+Number of error tests: 0
+Number of passed test cases: 21
+Number of failed test cases: 17
+Total of passed test cases: 554
+Total of failed test cases: 413
+Node coverage on execution (this iteration): 415/616 = 0.6737012987012987
+Node coverage on execution (all): 591/616 = 0.9594155844155844
+
+------------------------------------Iteration 27------------------------------------
+Generating starts at 2022-04-15 08:45:54.416406
+Total generated tests: 36
+No. skipped nodes: 53
+Node coverage on graph (place & trans): 563/616 = 0.913961038961039
+
+Generating ends at 2022-04-15 08:47:53.487885
+Generating took 0:01:59.071479 to complete
+Session ID:  _22_Apr_15_Fri_08_47_53
+Test execution starts at 2022-04-15 08:47:53.728017
+Test execution ends at 2022-04-15 09:21:34.548717
+Test execution took 0:33:40.820700 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-7/Katalon-Moodle-7/Reports\20220415_084813
+Number of error tests: 0
+Number of passed test cases: 20
+Number of failed test cases: 16
+Total of passed test cases: 574
+Total of failed test cases: 429
+Node coverage on execution (this iteration): 413/616 = 0.6704545454545454
+Node coverage on execution (all): 591/616 = 0.9594155844155844
+
+------------------------------------Iteration 28------------------------------------
+Generating starts at 2022-04-15 09:21:35.298370
+Total generated tests: 39
+No. skipped nodes: 53
+Node coverage on graph (place & trans): 563/616 = 0.913961038961039
+
+Generating ends at 2022-04-15 09:26:46.511233
+Generating took 0:05:11.212863 to complete
+Session ID:  _22_Apr_15_Fri_09_26_46
+Test execution starts at 2022-04-15 09:26:46.774681
+Test execution ends at 2022-04-15 10:03:43.918424
+Test execution took 0:36:57.143743 to complete
+Expect reports at: C:/Users/Prometheus/Downloads/moodle-main-7/Katalon-Moodle-7/Reports\20220415_092706
+Number of error tests: 0
+Number of passed test cases: 17
+Number of failed test cases: 22
+Total of passed test cases: 591
+Total of failed test cases: 451
+Node coverage on execution (this iteration): 337/616 = 0.547077922077922
+Node coverage on execution (all): 591/616 = 0.9594155844155844
+
+Convergence on execution reached. Stop iterative generation
